@@ -1,4 +1,4 @@
-BCG Marketing Catalyst Tactical Optimization Service
+My Marketing Catalyst Tactical Optimization Service
 ================================================
 
 Getting Started

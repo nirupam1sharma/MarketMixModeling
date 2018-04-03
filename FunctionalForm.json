@@ -1,0 +1,7 @@
+{
+	"ADBUDG": "CoefficientA * (AdStock ^ CoefficientB)/((AdStock ^ CoefficientB) + CoefficientC ^ CoefficientB)",
+	"POWER": "CoefficientA * (AdStock ^ CoefficientB)",
+	"EXPONENTIAL": "CoefficientA * (1-exp(-CoefficientB*AdStock))",
+	"ATAN_LINEAR": "CoefficientA * atan(AdStock ^ 2 / CoefficientB ^ 2) / (3.141593/2)",
+	"NEGATIVE_EXPONENTIAL": "CoefficientA * (1-exp(-AdStock/CoefficientB))"
+}

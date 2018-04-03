@@ -1,0 +1,5 @@
+FunctionalFormName,Brand,Geography,Instrument,ReceivingBrand,ReceivingGeography,CoefficientA,CoefficientB,CoefficientC,Carryover,Lag,Kpi
+EXPONENTIAL,Crown Royal,US,National TV,Crown Royal,US,3.333333334,1.76E-05,0,0,0,Kpi1
+EXPONENTIAL,Crown Royal,US,Digital Total,Crown Royal,US,1.428571429,1.63E-05,0,0,0,Kpi1
+EXPONENTIAL,Johnnie Walker Black,US,National TV,Johnnie Walker Black,US,3.333333334,1.83E-06,0,0,0,Kpi1
+EXPONENTIAL,Johnnie Walker Black,US,Digital Total,Johnnie Walker Black,US,1.428571429,6.61E-06,0,0,0,Kpi1

@@ -1,0 +1,6 @@
+Brand,Geography,SalesChannel,CustomerSegment,SourceKpi,DestinationKpi,Formula
+Baileys OIC 70cl,GB,Default,Default,Kpi1,SecondaryKpi,LongTermMultiplier * Adj * Base * Gross_Profit_per_Litre
+Baileys OIC 100cl,GB,Default,Default,Kpi1,SecondaryKpi,LongTermMultiplier * Adj * Base * Gross_Profit_per_Litre
+Baileys Flavours 70cl,GB,Default,Default,Kpi1,SecondaryKpi,LongTermMultiplier * Adj * Base * Gross_Profit_per_Litre
+Baileys Flavours 100cl,GB,Default,Default,Kpi1,SecondaryKpi,LongTermMultiplier * Adj * Base * Gross_Profit_per_Litre
+Baileys Choc Lux 50cl,GB,Default,Default,Kpi1,SecondaryKpi,LongTermMultiplier * Adj * Base * Gross_Profit_per_Litre

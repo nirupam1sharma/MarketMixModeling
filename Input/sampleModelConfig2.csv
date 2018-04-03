@@ -1,0 +1,2 @@
+Brand,Geography,Instrument,Carryover,Lag,ReceivingBrand,ReceivingGeo,functionalFormName,CoefficientA,CoefficientB,CoefficientC
+IOS_BASE,NEW YORK,LocalNewspaper--Holiday--Non Hispanic--Base,0.5,2,IOS_BASE,NEW YORK,ADBUDG,500000.000000000000,2.000000000000,35.000000000000

@@ -1,0 +1,949 @@
+{
+  "currentScenario": {
+    "scenarioId": 4,
+    "returns": 1325738.497521629,
+    "portFolioConstraints": {
+      "spend": 3137643.096778028,
+      "minSpend": null,
+      "maxSpend": null
+    },
+    "markets": [
+      {
+        "id": 1,
+        "returns": 1325738.497521629,
+        "marketConstraints": {
+          "spend": 3137643.096778028,
+          "minSpend": null,
+          "maxSpend": null
+        },
+        "instruments": [
+          {
+            "id": 1,
+            "returns": 1658103.4869459067,
+            "instrumentConstraints": {
+              "spend": 1509999.9999000002,
+              "minSpend": null,
+              "maxSpend": null
+            },
+            "campaigns": [
+              {
+                "id": 4,
+                "activities": [
+                  {
+                    "activityId": 91,
+                    "startWeek": 20,
+                    "endWeek": 26,
+                    "weeklySpends": [
+                      244521.9558,
+                      251540.6415,
+                      230937.4027,
+                      253336.533,
+                      253336.533,
+                      173975.4376,
+                      102351.4963
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "returns": 121147.13870255106,
+            "instrumentConstraints": {
+              "spend": 449700.58,
+              "minSpend": null,
+              "maxSpend": null
+            },
+            "campaigns": [
+              {
+                "id": 4,
+                "activities": [
+                  {
+                    "activityId": 99,
+                    "startWeek": 17,
+                    "endWeek": 17,
+                    "weeklySpends": [
+                      49375.0
+                    ]
+                  },
+                  {
+                    "activityId": 100,
+                    "startWeek": 21,
+                    "endWeek": 21,
+                    "weeklySpends": [
+                      15500.0
+                    ]
+                  },
+                  {
+                    "activityId": 101,
+                    "startWeek": 22,
+                    "endWeek": 24,
+                    "weeklySpends": [
+                      49429.75,
+                      77366.67,
+                      97654.16
+                    ]
+                  },
+                  {
+                    "activityId": 102,
+                    "startWeek": 26,
+                    "endWeek": 26,
+                    "weeklySpends": [
+                      9932.0
+                    ]
+                  },
+                  {
+                    "activityId": 103,
+                    "startWeek": 31,
+                    "endWeek": 31,
+                    "weeklySpends": [
+                      49375.0
+                    ]
+                  },
+                  {
+                    "activityId": 104,
+                    "startWeek": 35,
+                    "endWeek": 35,
+                    "weeklySpends": [
+                      49375.0
+                    ]
+                  },
+                  {
+                    "activityId": 87,
+                    "startWeek": 39,
+                    "endWeek": 39,
+                    "weeklySpends": [
+                      49375.0
+                    ]
+                  },
+                  {
+                    "activityId": 88,
+                    "startWeek": 42,
+                    "endWeek": 42,
+                    "weeklySpends": [
+                      2318.0
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "returns": 57278.24369250526,
+            "instrumentConstraints": {
+              "spend": 135000.00001400002,
+              "minSpend": null,
+              "maxSpend": null
+            },
+            "campaigns": [
+              {
+                "id": 4,
+                "activities": [
+                  {
+                    "activityId": 92,
+                    "startWeek": 18,
+                    "endWeek": 24,
+                    "weeklySpends": [
+                      6585.365854,
+                      23048.78049,
+                      23048.78049,
+                      23048.78049,
+                      23048.78049,
+                      23048.78049,
+                      13170.73171
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "returns": -148397.25476116355,
+            "instrumentConstraints": {
+              "spend": 323093.120274028,
+              "minSpend": null,
+              "maxSpend": null
+            },
+            "campaigns": [
+              {
+                "id": 4,
+                "activities": [
+                  {
+                    "activityId": 96,
+                    "startWeek": 38,
+                    "endWeek": 38,
+                    "weeklySpends": [
+                      28055.59225
+                    ]
+                  },
+                  {
+                    "activityId": 97,
+                    "startWeek": 40,
+                    "endWeek": 50,
+                    "weeklySpends": [
+                      1139.786126,
+                      24525.26609,
+                      19051.4437,
+                      16079.69313,
+                      12712.28699,
+                      14016.88344,
+                      5578.262718,
+                      5269.351115,
+                      5020.74263,
+                      7557.400448,
+                      5928.575506
+                    ]
+                  },
+                  {
+                    "activityId": 93,
+                    "startWeek": 23,
+                    "endWeek": 27,
+                    "weeklySpends": [
+                      5966.251134,
+                      55248.12469,
+                      14214.66856,
+                      1.629781148,
+                      27807.19851
+                    ]
+                  },
+                  {
+                    "activityId": 94,
+                    "startWeek": 29,
+                    "endWeek": 29,
+                    "weeklySpends": [
+                      0.82179588
+                    ]
+                  },
+                  {
+                    "activityId": 95,
+                    "startWeek": 34,
+                    "endWeek": 35,
+                    "weeklySpends": [
+                      35847.2003,
+                      39071.94136
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "returns": -94072.4827369997,
+            "instrumentConstraints": {
+              "spend": 308999.99999,
+              "minSpend": null,
+              "maxSpend": null
+            },
+            "campaigns": [
+              {
+                "id": 4,
+                "activities": [
+                  {
+                    "activityId": 89,
+                    "startWeek": 20,
+                    "endWeek": 25,
+                    "weeklySpends": [
+                      33333.33333,
+                      33333.33333,
+                      33333.33333,
+                      33333.33333,
+                      33333.33333,
+                      33333.33333
+                    ]
+                  },
+                  {
+                    "activityId": 90,
+                    "startWeek": 37,
+                    "endWeek": 39,
+                    "weeklySpends": [
+                      40157.89474,
+                      40157.89474,
+                      28684.21053
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "returns": -268320.6343211705,
+            "instrumentConstraints": {
+              "spend": 410849.3966,
+              "minSpend": null,
+              "maxSpend": null
+            },
+            "campaigns": [
+              {
+                "id": 4,
+                "activities": [
+                  {
+                    "activityId": 98,
+                    "startWeek": 22,
+                    "endWeek": 26,
+                    "weeklySpends": [
+                      33909.6888,
+                      128502.6984,
+                      225929.8094,
+                      11253.6,
+                      11253.6
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tailInScenario": {
+    "scenarioId": 1,
+    "returns": 0.0,
+    "portFolioConstraints": null,
+    "markets": [
+      {
+        "id": 1,
+        "returns": 0.0,
+        "marketConstraints": null,
+        "instruments": [
+          {
+            "id": 1,
+            "returns": 0.0,
+            "instrumentConstraints": null,
+            "campaigns": [
+              {
+                "id": 1,
+                "activities": [
+                  {
+                    "activityId": 39,
+                    "startWeek": 24,
+                    "endWeek": 36,
+                    "weeklySpends": [
+                      209235.7593,
+                      196450.4955,
+                      172109.3202,
+                      163995.5951,
+                      148534.8139,
+                      36008.43974,
+                      8655.874937,
+                      490268.7564,
+                      104082.6319,
+                      136083.6846,
+                      162064.7373,
+                      125786.3161,
+                      41981.57907
+                    ]
+                  },
+                  {
+                    "activityId": 40,
+                    "startWeek": 49,
+                    "endWeek": 51,
+                    "weeklySpends": [
+                      249381.7067,
+                      219523.7609,
+                      195094.5324
+                    ]
+                  },
+                  {
+                    "activityId": 41,
+                    "startWeek": 78,
+                    "endWeek": 79,
+                    "weeklySpends": [
+                      282338.7531,
+                      249811.2469
+                    ]
+                  },
+                  {
+                    "activityId": 42,
+                    "startWeek": 82,
+                    "endWeek": 88,
+                    "weeklySpends": [
+                      347759.805,
+                      354522.7899,
+                      354522.7899,
+                      267671.8253,
+                      185804.1128,
+                      119953.9962,
+                      48764.68094
+                    ]
+                  },
+                  {
+                    "activityId": 43,
+                    "startWeek": 134,
+                    "endWeek": 140,
+                    "weeklySpends": [
+                      244521.9558,
+                      251540.6415,
+                      230937.4027,
+                      253336.533,
+                      253336.533,
+                      173975.4376,
+                      102351.4963
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "returns": 0.0,
+            "instrumentConstraints": null,
+            "campaigns": [
+              {
+                "id": 1,
+                "activities": [
+                  {
+                    "activityId": 21,
+                    "startWeek": 1,
+                    "endWeek": 1,
+                    "weeklySpends": [
+                      28392.0
+                    ]
+                  },
+                  {
+                    "activityId": 22,
+                    "startWeek": 96,
+                    "endWeek": 96,
+                    "weeklySpends": [
+                      56250.0
+                    ]
+                  },
+                  {
+                    "activityId": 23,
+                    "startWeek": 101,
+                    "endWeek": 101,
+                    "weeklySpends": [
+                      56250.0
+                    ]
+                  },
+                  {
+                    "activityId": 24,
+                    "startWeek": 131,
+                    "endWeek": 131,
+                    "weeklySpends": [
+                      49375.0
+                    ]
+                  },
+                  {
+                    "activityId": 25,
+                    "startWeek": 135,
+                    "endWeek": 138,
+                    "weeklySpends": [
+                      15500.0,
+                      49429.75,
+                      77366.67,
+                      97654.16
+                    ]
+                  },
+                  {
+                    "activityId": 26,
+                    "startWeek": 140,
+                    "endWeek": 140,
+                    "weeklySpends": [
+                      9932.0
+                    ]
+                  },
+                  {
+                    "activityId": 27,
+                    "startWeek": 145,
+                    "endWeek": 145,
+                    "weeklySpends": [
+                      49375.0
+                    ]
+                  },
+                  {
+                    "activityId": 28,
+                    "startWeek": 149,
+                    "endWeek": 149,
+                    "weeklySpends": [
+                      49375.0
+                    ]
+                  },
+                  {
+                    "activityId": 29,
+                    "startWeek": 153,
+                    "endWeek": 153,
+                    "weeklySpends": [
+                      49375.0
+                    ]
+                  },
+                  {
+                    "activityId": 30,
+                    "startWeek": 156,
+                    "endWeek": 156,
+                    "weeklySpends": [
+                      2318.0
+                    ]
+                  },
+                  {
+                    "activityId": 31,
+                    "startWeek": 23,
+                    "endWeek": 25,
+                    "weeklySpends": [
+                      75957.0,
+                      18059.0,
+                      21284.0
+                    ]
+                  },
+                  {
+                    "activityId": 32,
+                    "startWeek": 27,
+                    "endWeek": 36,
+                    "weeklySpends": [
+                      42933.33,
+                      9934.33,
+                      9934.33,
+                      9934.33,
+                      1388.33,
+                      1388.33,
+                      1388.33,
+                      1388.33,
+                      1388.33,
+                      1388.33
+                    ]
+                  },
+                  {
+                    "activityId": 33,
+                    "startWeek": 40,
+                    "endWeek": 40,
+                    "weeklySpends": [
+                      4950.0
+                    ]
+                  },
+                  {
+                    "activityId": 34,
+                    "startWeek": 47,
+                    "endWeek": 50,
+                    "weeklySpends": [
+                      80117.94,
+                      68118.83,
+                      6674.2,
+                      9399.3
+                    ]
+                  },
+                  {
+                    "activityId": 35,
+                    "startWeek": 53,
+                    "endWeek": 53,
+                    "weeklySpends": [
+                      14586.0
+                    ]
+                  },
+                  {
+                    "activityId": 36,
+                    "startWeek": 84,
+                    "endWeek": 84,
+                    "weeklySpends": [
+                      24541.2
+                    ]
+                  },
+                  {
+                    "activityId": 37,
+                    "startWeek": 88,
+                    "endWeek": 88,
+                    "weeklySpends": [
+                      56250.0
+                    ]
+                  },
+                  {
+                    "activityId": 38,
+                    "startWeek": 92,
+                    "endWeek": 92,
+                    "weeklySpends": [
+                      56250.0
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "returns": 0.0,
+            "instrumentConstraints": null,
+            "campaigns": [
+              {
+                "id": 1,
+                "activities": [
+                  {
+                    "activityId": 1,
+                    "startWeek": 31,
+                    "endWeek": 36,
+                    "weeklySpends": [
+                      16666.66667,
+                      16666.66667,
+                      16666.66667,
+                      16666.66667,
+                      16666.66667,
+                      16666.66667
+                    ]
+                  },
+                  {
+                    "activityId": 2,
+                    "startWeek": 78,
+                    "endWeek": 84,
+                    "weeklySpends": [
+                      16978.57143,
+                      16978.57143,
+                      16978.57143,
+                      16978.57143,
+                      16978.57143,
+                      16978.57143,
+                      16978.57143
+                    ]
+                  },
+                  {
+                    "activityId": 3,
+                    "startWeek": 94,
+                    "endWeek": 103,
+                    "weeklySpends": [
+                      8573.935484,
+                      28081.27419,
+                      28081.27419,
+                      28081.27419,
+                      28081.27419,
+                      28081.27419,
+                      28081.27419,
+                      28081.27419,
+                      28081.27419,
+                      16376.87097
+                    ]
+                  },
+                  {
+                    "activityId": 4,
+                    "startWeek": 132,
+                    "endWeek": 138,
+                    "weeklySpends": [
+                      6585.365854,
+                      23048.78049,
+                      23048.78049,
+                      23048.78049,
+                      23048.78049,
+                      23048.78049,
+                      13170.73171
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "returns": 0.0,
+            "instrumentConstraints": null,
+            "campaigns": [
+              {
+                "id": 1,
+                "activities": [
+                  {
+                    "activityId": 5,
+                    "startWeek": 18,
+                    "endWeek": 22,
+                    "weeklySpends": [
+                      13117.676,
+                      13117.676,
+                      13117.676,
+                      13117.676,
+                      13117.676
+                    ]
+                  },
+                  {
+                    "activityId": 6,
+                    "startWeek": 148,
+                    "endWeek": 149,
+                    "weeklySpends": [
+                      35847.2003,
+                      39071.94136
+                    ]
+                  },
+                  {
+                    "activityId": 7,
+                    "startWeek": 152,
+                    "endWeek": 152,
+                    "weeklySpends": [
+                      28055.59225
+                    ]
+                  },
+                  {
+                    "activityId": 8,
+                    "startWeek": 154,
+                    "endWeek": 159,
+                    "weeklySpends": [
+                      1139.786126,
+                      24525.26609,
+                      19051.4437,
+                      16079.69313,
+                      12712.28699,
+                      14016.88344
+                    ]
+                  },
+                  {
+                    "activityId": 9,
+                    "startWeek": 50,
+                    "endWeek": 51,
+                    "weeklySpends": [
+                      3333.3345,
+                      6666.6775
+                    ]
+                  },
+                  {
+                    "activityId": 10,
+                    "startWeek": 53,
+                    "endWeek": 54,
+                    "weeklySpends": [
+                      3499.994,
+                      1500.0035
+                    ]
+                  },
+                  {
+                    "activityId": 11,
+                    "startWeek": 57,
+                    "endWeek": 63,
+                    "weeklySpends": [
+                      7172.13927,
+                      12594.43657,
+                      18237.87432,
+                      9553.689758,
+                      6006.936164,
+                      6419.090033,
+                      169.1146766
+                    ]
+                  },
+                  {
+                    "activityId": 12,
+                    "startWeek": 79,
+                    "endWeek": 83,
+                    "weeklySpends": [
+                      20594.54,
+                      12497.79158,
+                      36798.39626,
+                      25866.23534,
+                      7208.789823
+                    ]
+                  },
+                  {
+                    "activityId": 13,
+                    "startWeek": 95,
+                    "endWeek": 104,
+                    "weeklySpends": [
+                      0.63382811,
+                      5336.713843,
+                      11364.95396,
+                      6541.541852,
+                      6903.655774,
+                      6337.211515,
+                      2555.872239,
+                      1981.366479,
+                      10482.15025,
+                      1754.020259
+                    ]
+                  },
+                  {
+                    "activityId": 14,
+                    "startWeek": 107,
+                    "endWeek": 112,
+                    "weeklySpends": [
+                      3135.757583,
+                      5578.262718,
+                      5269.351115,
+                      5020.74263,
+                      7557.400448,
+                      5928.575506
+                    ]
+                  },
+                  {
+                    "activityId": 15,
+                    "startWeek": 137,
+                    "endWeek": 141,
+                    "weeklySpends": [
+                      5966.251134,
+                      55248.12469,
+                      14214.66856,
+                      1.629781148,
+                      27807.19851
+                    ]
+                  },
+                  {
+                    "activityId": 16,
+                    "startWeek": 143,
+                    "endWeek": 143,
+                    "weeklySpends": [
+                      0.82179588
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "returns": 0.0,
+            "instrumentConstraints": null,
+            "campaigns": [
+              {
+                "id": 1,
+                "activities": [
+                  {
+                    "activityId": 44,
+                    "startWeek": 24,
+                    "endWeek": 33,
+                    "weeklySpends": [
+                      14829.6239,
+                      25261.88603,
+                      17390.77761,
+                      17139.24657,
+                      18125.73321,
+                      19197.31572,
+                      2602.72314,
+                      10660.28398,
+                      12861.89638,
+                      1327.019639
+                    ]
+                  },
+                  {
+                    "activityId": 45,
+                    "startWeek": 49,
+                    "endWeek": 51,
+                    "weeklySpends": [
+                      9133.333333,
+                      9133.333333,
+                      9133.333333
+                    ]
+                  },
+                  {
+                    "activityId": 46,
+                    "startWeek": 77,
+                    "endWeek": 81,
+                    "weeklySpends": [
+                      5882.352941,
+                      8235.294118,
+                      5882.352941,
+                      8575.0,
+                      8575.0
+                    ]
+                  },
+                  {
+                    "activityId": 47,
+                    "startWeek": 83,
+                    "endWeek": 88,
+                    "weeklySpends": [
+                      19416.66667,
+                      19416.66667,
+                      19416.66667,
+                      19416.66667,
+                      19416.66667,
+                      19416.66667
+                    ]
+                  },
+                  {
+                    "activityId": 48,
+                    "startWeek": 94,
+                    "endWeek": 102,
+                    "weeklySpends": [
+                      2931.034483,
+                      10258.62069,
+                      10258.62069,
+                      10258.62069,
+                      10258.62069,
+                      10258.62069,
+                      10258.62069,
+                      10258.62069,
+                      10258.62069
+                    ]
+                  },
+                  {
+                    "activityId": 49,
+                    "startWeek": 134,
+                    "endWeek": 139,
+                    "weeklySpends": [
+                      33333.33333,
+                      33333.33333,
+                      33333.33333,
+                      33333.33333,
+                      33333.33333,
+                      33333.33333
+                    ]
+                  },
+                  {
+                    "activityId": 50,
+                    "startWeek": 151,
+                    "endWeek": 153,
+                    "weeklySpends": [
+                      40157.89474,
+                      40157.89474,
+                      28684.21053
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "returns": 0.0,
+            "instrumentConstraints": null,
+            "campaigns": [
+              {
+                "id": 1,
+                "activities": [
+                  {
+                    "activityId": 17,
+                    "startWeek": 24,
+                    "endWeek": 25,
+                    "weeklySpends": [
+                      25031.25,
+                      25031.25
+                    ]
+                  },
+                  {
+                    "activityId": 18,
+                    "startWeek": 46,
+                    "endWeek": 49,
+                    "weeklySpends": [
+                      184543.19,
+                      184543.19,
+                      113498.22,
+                      18643.0
+                    ]
+                  },
+                  {
+                    "activityId": 19,
+                    "startWeek": 80,
+                    "endWeek": 83,
+                    "weeklySpends": [
+                      52866.0,
+                      52866.0,
+                      232113.6,
+                      232113.6
+                    ]
+                  },
+                  {
+                    "activityId": 20,
+                    "startWeek": 136,
+                    "endWeek": 140,
+                    "weeklySpends": [
+                      33909.6888,
+                      128502.6984,
+                      225929.8094,
+                      11253.6,
+                      11253.6
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "startDate": 167,
+  "planEnd": 52,
+  "scenarioEnd": 66
+}

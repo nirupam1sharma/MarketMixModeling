@@ -1,0 +1,3 @@
+Brand,Geography,SourceKpi,DestinationKpi,Formula
+BOLT,BARLAND,Kpi1,SecondaryKpi,Gross_Profit_per_Litre * Coefficient * LT
+HAMMER,BARLAND,Kpi2,SecondaryKpi,Gross_Profit_per_Litre * Coefficient * LT

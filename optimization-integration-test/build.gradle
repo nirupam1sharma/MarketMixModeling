@@ -1,0 +1,80 @@
+group 'optimization-integration-test'
+version '1.0-SNAPSHOT'
+
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+}
+
+apply plugin: 'java'
+apply plugin: 'idea'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+    maven {
+        url "https://oss.sonatype.org/content/repositories/snapshots"
+    }
+}
+
+dependencies {
+    // utils
+    compile('org.projectlombok:lombok:1.16.6')
+
+    testCompile 'commons-beanutils:commons-beanutils:1.9.2'
+    testCompile 'org.apache.commons:commons-configuration2:2.0'
+    testCompile 'junit:junit:4.11'
+    testCompile 'com.jayway.restassured:rest-assured:2.9.1-SNAPSHOT'
+    testCompile 'com.jayway.restassured:json-path:2.9.1-SNAPSHOT'
+    testCompile 'com.jayway.restassured:json-schema-validator:2.9.1-SNAPSHOT'
+    testCompile 'info.cukes:cucumber-java:1.2.4'
+    testCompile 'info.cukes:cucumber-junit:1.2.4'
+    testCompile 'info.cukes:cucumber-testng:1.2.4'
+    testCompile('com.googlecode.json-simple:json-simple:1.1.1')
+    testCompile group: 'com.google.code.gson', name: 'gson', version: '1.7.2'
+    // Google Guice
+    testCompile 'info.cukes:cucumber-guice:1.2.4'
+    testCompile 'com.google.inject:guice:3.0'
+    testCompile group: 'org.apache.commons', name: 'commons-math3', version: '3.6.1'
+}
+
+configurations {
+    cucumberRuntime {
+        extendsFrom testRuntime
+    }
+}
+
+task sanityCucumber() {
+    dependsOn assemble, compileTestJava
+    doLast {
+        javaexec {
+            main = "cucumber.api.cli.Main"
+            classpath = configurations.cucumberRuntime + sourceSets.main.output + sourceSets.test.output
+            args = ['--plugin', 'pretty', '--plugin', 'html:build/report', '--glue', 'step_definitions',
+                    'src/test/resources', '--tags', '@sanityTest']
+            systemProperties = System.getProperties()
+        }
+    }
+}
+
+task cucumber() {
+    dependsOn assemble, compileTestJava
+    doLast {
+        javaexec {
+            main = "cucumber.api.cli.Main"
+            classpath = configurations.cucumberRuntime + sourceSets.main.output + sourceSets.test.output
+            args = ['--plugin', 'pretty', '--plugin', 'html:build/report', '--glue', 'step_definitions',
+                    'src/test/resources']
+            systemProperties = System.getProperties()
+        }
+    }
+}
+
+sanityCucumber.dependsOn build
+cucumber.dependsOn build
+
+task wrapper(type: Wrapper) {
+    gradleVersion = '2.3'
+}

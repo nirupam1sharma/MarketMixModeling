@@ -1,0 +1,23 @@
+FunctionalFormName,Brand,Geography,SalesChannel,CustomerSegment,Instrument,ReceivingBrand,ReceivingGeography,ReceivingSalesChannel,ReceivingCustomerSegment,CoefficientA,CoefficientB,CoefficientC,Carryover,Lag,Kpi
+ADBUDG,Baileys,GB,Default,Default,TV,Baileys OIC 70cl,GB,Default,Default,10.13927664,1.036494648,676050.0521,0.23,0,Kpi1
+ADBUDG,Baileys,GB,Default,Default,Press,Baileys OIC 70cl,GB,Default,Default,2.838225306,1.63257835,20596.81653,0.3,0,Kpi1
+ADBUDG,Baileys,GB,Default,Default,Cinema,Baileys OIC 70cl,GB,Default,Default,2.439909526,1.547024251,32752.22246,0.0001,0,Kpi1
+ADBUDG,Baileys,GB,Default,Default,Digital,Baileys OIC 70cl,GB,Default,Default,0.382009414,1.67629334,14230.57832,0.5,0,Kpi1
+ADBUDG,Baileys,GB,Default,Default,VOD,Baileys OIC 70cl,GB,Default,Default,2.07871707,1.048348257,515746.848,0.3,0,Kpi1
+ADBUDG,Baileys,GB,Default,Default,TV,Baileys OIC 100cl,GB,Default,Default,56.17168658,1.0232062,1179886.29,0.35,0,Kpi1
+ADBUDG,Baileys,GB,Default,Default,Press,Baileys OIC 100cl,GB,Default,Default,5.362968061,1.146270044,195576.5507,0.0001,0,Kpi1
+ADBUDG,Baileys,GB,Default,Default,OOH,Baileys OIC 100cl,GB,Default,Default,4.570800502,1.078569454,348067.9726,0.5,0,Kpi1
+ADBUDG,Baileys,GB,Default,Default,Cinema,Baileys OIC 100cl,GB,Default,Default,1.395140001,1.43925332,50704.62843,0.5,0,Kpi1
+ADBUDG,Baileys,GB,Default,Default,Digital,Baileys OIC 100cl,GB,Default,Default,1.164884871,1.683273345,13584.6241,0.2,0,Kpi1
+ADBUDG,Baileys,GB,Default,Default,VOD,Baileys OIC 100cl,GB,Default,Default,19.04765435,1.049703528,553260.6804,0.3,0,Kpi1
+ADBUDG,Baileys,GB,Default,Default,TV,Baileys Flavours 70cl,GB,Default,Default,38.72559388,1.110999241,303050.024,0.23,0,Kpi1
+ADBUDG,Baileys,GB,Default,Default,Digital,Baileys Flavours 70cl,GB,Default,Default,4.015478054,1.465842637,46690.13613,0.1,0,Kpi1
+ADBUDG,Baileys,GB,Default,Default,VOD,Baileys Flavours 70cl,GB,Default,Default,5.452936227,1.830298734,6355.69456,0.3,0,Kpi1
+ADBUDG,Baileys,GB,Default,Default,Cinema,Baileys Flavours 70cl,GB,Default,Default,6.893937527,1.416438593,57544.853,0.6,0,Kpi1
+ADBUDG,Baileys,GB,Default,Default,TV,Baileys Flavours 100cl,GB,Default,Default,60.3205314,1.05461911,622544.4812,0.1,0,Kpi1
+ADBUDG,Baileys,GB,Default,Default,Press,Baileys Flavours 100cl,GB,Default,Default,27.76584599,1.293320663,104258.9052,0.3,0,Kpi1
+ADBUDG,Baileys,GB,Default,Default,Digital,Baileys Flavours 100cl,GB,Default,Default,44.37561986,1.559402036,43405.43281,0.3,0,Kpi1
+ADBUDG,Baileys,GB,Default,Default,Cinema,Baileys Flavours 100cl,GB,Default,Default,11.74010502,1.47109852,48515.66098,0.6,0,Kpi1
+ADBUDG,Baileys,GB,Default,Default,TV,Baileys Choc Lux 50cl,GB,Default,Default,19.63678573,1.09477034,319018.2938,0.65,0,Kpi1
+ADBUDG,Baileys,GB,Default,Default,Cinema,Baileys Choc Lux 50cl,GB,Default,Default,5.462700899,1.762565348,8148.716146,0.0001,0,Kpi1
+ADBUDG,Baileys,GB,Default,Default,OOH,Baileys Choc Lux 50cl,GB,Default,Default,5.465016702,1.105069769,269117.2052,0.4,0,Kpi1

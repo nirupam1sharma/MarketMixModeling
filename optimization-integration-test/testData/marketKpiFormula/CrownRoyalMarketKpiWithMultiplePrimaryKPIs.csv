@@ -1,0 +1,3 @@
+Brand,Geography,SourceKpi,DestinationKpi,Formula
+Crown Royal,US,Kpi1,SecondaryKpi,Coefficient * LT * Gross_Profit_per_Litre
+Johnnie Walker Black,US,Kpi2,SecondaryKpi,LT * Gross_Profit_per_Litre

@@ -1,0 +1,1333 @@
+Brand,Geography,GrowthDriver,Instrument,Activity,Week,Investment,Agency
+Gemini,US,Total,Digital Total,Activity 1,07/06/2014,40801.0,Agency1
+Gemini,US,Total,Digital Total,Activity 1,07/13/2014,40801.0,Agency1
+Gemini,US,Total,Digital Total,Activity 1,07/20/2014,40801.0,Agency1
+Gemini,US,Total,Digital Total,Activity 2,08/03/2014,200.0,Agency1
+Gemini,US,Total,Digital Total,Activity 3,08/31/2014,75271.0,Agency1
+Gemini,US,Total,Digital Total,Activity 3,09/07/2014,75471.0,Agency1
+Gemini,US,Total,Digital Total,Activity 3,09/14/2014,75271.0,Agency1
+Gemini,US,Total,Digital Total,Activity 3,09/21/2014,75271.0,Agency1
+Gemini,US,Total,Digital Total,Activity 4,10/05/2014,236.0,Agency1
+Gemini,US,Total,Digital Total,Activity 4,10/12/2014,22036.0,Agency1
+Gemini,US,Total,Digital Total,Activity 4,10/19/2014,36.0,Agency1
+Gemini,US,Total,Digital Total,Activity 4,10/26/2014,3920.0,Agency1
+Gemini,US,Total,Digital Total,Activity 4,11/02/2014,195680.0,Agency1
+Gemini,US,Total,Digital Total,Activity 4,11/09/2014,8752.0,Agency1
+Gemini,US,Total,Digital Total,Activity 4,11/16/2014,186451.0,Agency1
+Gemini,US,Total,Digital Total,Activity 4,11/23/2014,23874.0,Agency1
+Gemini,US,Total,Digital Total,Activity 4,11/30/2014,367486.0,Agency1
+Gemini,US,Total,Digital Total,Activity 4,12/07/2014,193964.0,Agency1
+Gemini,US,Total,Digital Total,Activity 4,12/14/2014,115120.0,Agency1
+Gemini,US,Total,Digital Total,Activity 4,12/21/2014,115120.0,Agency1
+Gemini,US,Total,Digital Total,Activity 5,01/04/2015,111164.0,Agency1
+Gemini,US,Total,Digital Total,Activity 5,01/11/2015,435.0,Agency1
+Gemini,US,Total,Digital Total,Activity 5,01/18/2015,195.0,Agency1
+Gemini,US,Total,Digital Total,Activity 6,02/01/2015,343143.0,Agency1
+Gemini,US,Total,Digital Total,Activity 6,02/08/2015,115889.0,Agency1
+Gemini,US,Total,Digital Total,Activity 6,02/15/2015,115889.0,Agency1
+Gemini,US,Total,Digital Total,Activity 6,02/22/2015,16225.0,Agency1
+Gemini,US,Total,Digital Total,Activity 6,03/01/2015,160362.0,Agency1
+Gemini,US,Total,Digital Total,Activity 6,03/08/2015,112070.0,Agency1
+Gemini,US,Total,Digital Total,Activity 6,03/15/2015,112070.0,Agency1
+Gemini,US,Total,Digital Total,Activity 6,03/22/2015,112070.0,Agency1
+Gemini,US,Total,Digital Total,Activity 7,04/05/2015,142854.0,Agency1
+Gemini,US,Total,Digital Total,Activity 7,04/12/2015,53352.0,Agency1
+Gemini,US,Total,Digital Total,Activity 7,04/19/2015,46761.0,Agency1
+Gemini,US,Total,Digital Total,Activity 8,05/03/2015,399951.0,Agency1
+Gemini,US,Total,Digital Total,Activity 8,05/10/2015,214214.0,Agency1
+Gemini,US,Total,Digital Total,Activity 8,05/17/2015,214214.0,Agency1
+Gemini,US,Total,Digital Total,Activity 8,05/24/2015,4165.0,Agency1
+Gemini,US,Total,Digital Total,Activity 8,05/31/2015,93414.0,Agency1
+Gemini,US,Total,Digital Total,Activity 8,06/07/2015,156404.0,Agency1
+Gemini,US,Total,Digital Total,Activity 8,06/14/2015,223445.0,Agency1
+Gemini,US,Total,Digital Total,Activity 8,06/21/2015,219603.0,Agency1
+Gemini,US,Total,Digital Total,Activity 9,07/05/2015,40801.0,Agency1
+Gemini,US,Total,Digital Total,Activity 9,07/12/2015,40801.0,Agency1
+Gemini,US,Total,Digital Total,Activity 9,07/19/2015,40801.0,Agency1
+Gemini,US,Total,Digital Total,Activity 10,08/02/2015,200.0,Agency1
+Gemini,US,Total,Digital Total,Activity 11,08/30/2015,75271.0,Agency1
+Gemini,US,Total,Digital Total,Activity 11,09/06/2015,75471.0,Agency1
+Gemini,US,Total,Digital Total,Activity 11,09/13/2015,75271.0,Agency1
+Gemini,US,Total,Digital Total,Activity 11,09/20/2015,75271.0,Agency1
+Gemini,US,Total,Digital Total,Activity 12,10/04/2015,236.0,Agency1
+Gemini,US,Total,Digital Total,Activity 12,10/11/2015,22036.0,Agency1
+Gemini,US,Total,Digital Total,Activity 12,10/18/2015,36.0,Agency1
+Gemini,US,Total,Digital Total,Activity 12,10/25/2015,3920.0,Agency1
+Gemini,US,Total,Digital Total,Activity 12,11/01/2015,195680.0,Agency1
+Gemini,US,Total,Digital Total,Activity 12,11/08/2015,8752.0,Agency1
+Gemini,US,Total,Digital Total,Activity 12,11/15/2015,186451.0,Agency1
+Gemini,US,Total,Digital Total,Activity 12,11/22/2015,23874.0,Agency1
+Gemini,US,Total,Digital Total,Activity 12,11/29/2015,367486.0,Agency1
+Gemini,US,Total,Digital Total,Activity 12,12/06/2015,193964.0,Agency1
+Gemini,US,Total,Digital Total,Activity 12,12/13/2015,115120.0,Agency1
+Gemini,US,Total,Digital Total,Activity 12,12/20/2015,115120.0,Agency1
+Gemini,US,Total,Digital Total,Activity 13,01/03/2016,111164.0,Agency1
+Gemini,US,Total,Digital Total,Activity 13,01/10/2016,435.0,Agency1
+Gemini,US,Total,Digital Total,Activity 13,01/17/2016,195.0,Agency1
+Gemini,US,Total,Digital Total,Activity 14,01/31/2016,343143.0,Agency1
+Gemini,US,Total,Digital Total,Activity 14,02/07/2016,115889.0,Agency1
+Gemini,US,Total,Digital Total,Activity 14,02/14/2016,115889.0,Agency1
+Gemini,US,Total,Digital Total,Activity 14,02/21/2016,16225.0,Agency1
+Gemini,US,Total,Digital Total,Activity 14,02/28/2016,160362.0,Agency1
+Gemini,US,Total,Digital Total,Activity 14,03/06/2016,112070.0,Agency1
+Gemini,US,Total,Digital Total,Activity 14,03/13/2016,112070.0,Agency1
+Gemini,US,Total,Digital Total,Activity 14,03/20/2016,112070.0,Agency1
+Gemini,US,Total,Digital Total,Activity 15,04/03/2016,142854.0,Agency1
+Gemini,US,Total,Digital Total,Activity 15,04/10/2016,53352.0,Agency1
+Gemini,US,Total,Digital Total,Activity 15,04/17/2016,46761.0,Agency1
+Gemini,US,Total,Digital Total,Activity 16,05/01/2016,399951.0,Agency1
+Gemini,US,Total,Digital Total,Activity 16,05/08/2016,214214.0,Agency1
+Gemini,US,Total,Digital Total,Activity 16,05/15/2016,214214.0,Agency1
+Gemini,US,Total,Digital Total,Activity 16,05/22/2016,4165.0,Agency1
+Gemini,US,Total,Digital Total,Activity 16,05/29/2016,93414.0,Agency1
+Gemini,US,Total,Digital Total,Activity 16,06/05/2016,156404.0,Agency1
+Gemini,US,Total,Digital Total,Activity 16,06/12/2016,223445.0,Agency1
+Gemini,US,Total,Digital Total,Activity 16,06/19/2016,219603.0,Agency1
+Gemini,US,Total,Magazines,Activity 1,07/06/2014,25353.0,Agency1
+Gemini,US,Total,Magazines,Activity 2,08/03/2014,9028.0,Agency1
+Gemini,US,Total,Magazines,Activity 3,08/31/2014,679458.0,Agency1
+Gemini,US,Total,Magazines,Activity 3,09/07/2014,1155.0,Agency1
+Gemini,US,Total,Magazines,Activity 3,09/14/2014,5000.0,Agency1
+Gemini,US,Total,Magazines,Activity 3,09/21/2014,3723.0,Agency1
+Gemini,US,Total,Magazines,Activity 4,10/05/2014,3135.0,Agency1
+Gemini,US,Total,Magazines,Activity 5,10/19/2014,1155.0,Agency1
+Gemini,US,Total,Magazines,Activity 5,10/26/2014,1155.0,Agency1
+Gemini,US,Total,Magazines,Activity 5,11/02/2014,203630.0,Agency1
+Gemini,US,Total,Magazines,Activity 6,11/16/2014,1155.0,Agency1
+Gemini,US,Total,Magazines,Activity 6,11/23/2014,9655.0,Agency1
+Gemini,US,Total,Magazines,Activity 6,11/30/2014,12997.0,Agency1
+Gemini,US,Total,Magazines,Activity 7,01/04/2015,30623.0,Agency1
+Gemini,US,Total,Magazines,Activity 7,01/11/2015,43025.0,Agency1
+Gemini,US,Total,Magazines,Activity 8,01/25/2015,1155.0,Agency1
+Gemini,US,Total,Magazines,Activity 8,02/01/2015,52089.0,Agency1
+Gemini,US,Total,Magazines,Activity 8,02/08/2015,633452.0,Agency1
+Gemini,US,Total,Magazines,Activity 8,02/15/2015,13770.0,Agency1
+Gemini,US,Total,Magazines,Activity 8,02/22/2015,158768.0,Agency1
+Gemini,US,Total,Magazines,Activity 8,03/01/2015,5716.0,Agency1
+Gemini,US,Total,Magazines,Activity 8,03/08/2015,38746.0,Agency1
+Gemini,US,Total,Magazines,Activity 9,04/05/2015,2568.0,Agency1
+Gemini,US,Total,Magazines,Activity 9,04/12/2015,81784.0,Agency1
+Gemini,US,Total,Magazines,Activity 10,05/03/2015,76454.0,Agency1
+Gemini,US,Total,Magazines,Activity 10,05/10/2015,81885.0,Agency1
+Gemini,US,Total,Magazines,Activity 11,05/31/2015,26276.0,Agency1
+Gemini,US,Total,Magazines,Activity 12,07/05/2015,25353.0,Agency1
+Gemini,US,Total,Magazines,Activity 13,08/02/2015,9028.0,Agency1
+Gemini,US,Total,Magazines,Activity 14,08/30/2015,679458.0,Agency1
+Gemini,US,Total,Magazines,Activity 14,09/06/2015,1155.0,Agency1
+Gemini,US,Total,Magazines,Activity 14,09/13/2015,5000.0,Agency1
+Gemini,US,Total,Magazines,Activity 14,09/20/2015,3723.0,Agency1
+Gemini,US,Total,Magazines,Activity 15,10/04/2015,3135.0,Agency1
+Gemini,US,Total,Magazines,Activity 16,10/18/2015,1155.0,Agency1
+Gemini,US,Total,Magazines,Activity 16,10/25/2015,1155.0,Agency1
+Gemini,US,Total,Magazines,Activity 16,11/01/2015,203630.0,Agency1
+Gemini,US,Total,Magazines,Activity 17,11/15/2015,1155.0,Agency1
+Gemini,US,Total,Magazines,Activity 17,11/22/2015,9655.0,Agency1
+Gemini,US,Total,Magazines,Activity 17,11/29/2015,12997.0,Agency1
+Gemini,US,Total,Magazines,Activity 18,01/03/2016,30623.0,Agency1
+Gemini,US,Total,Magazines,Activity 18,01/10/2016,43025.0,Agency1
+Gemini,US,Total,Magazines,Activity 19,01/24/2016,1155.0,Agency1
+Gemini,US,Total,Magazines,Activity 19,01/31/2016,52089.0,Agency1
+Gemini,US,Total,Magazines,Activity 19,02/07/2016,633452.0,Agency1
+Gemini,US,Total,Magazines,Activity 19,02/14/2016,13770.0,Agency1
+Gemini,US,Total,Magazines,Activity 19,02/21/2016,158768.0,Agency1
+Gemini,US,Total,Magazines,Activity 19,02/28/2016,5716.0,Agency1
+Gemini,US,Total,Magazines,Activity 19,03/06/2016,38746.0,Agency1
+Gemini,US,Total,Magazines,Activity 20,04/03/2016,2568.0,Agency1
+Gemini,US,Total,Magazines,Activity 20,04/10/2016,81784.0,Agency1
+Gemini,US,Total,Magazines,Activity 21,05/01/2016,76454.0,Agency1
+Gemini,US,Total,Magazines,Activity 21,05/08/2016,81885.0,Agency1
+Gemini,US,Total,Magazines,Activity 22,05/29/2016,26276.0,Agency1
+Gemini,US,Total,National TV,Activity 1,11/09/2014,74005.90549,Agency1
+Gemini,US,Total,National TV,Activity 1,11/16/2014,64185.21661,Agency1
+Gemini,US,Total,National TV,Activity 1,11/23/2014,527862.0273,Agency1
+Gemini,US,Total,National TV,Activity 1,11/30/2014,419483.7107,Agency1
+Gemini,US,Total,National TV,Activity 1,12/07/2014,504011.7829,Agency1
+Gemini,US,Total,National TV,Activity 1,12/14/2014,579245.2745,Agency1
+Gemini,US,Total,National TV,Activity 1,12/21/2014,482616.7107,Agency1
+Gemini,US,Total,National TV,Activity 1,12/28/2014,411942.8246,Agency1
+Gemini,US,Total,National TV,Activity 1,01/04/2015,9469.949991,Agency1
+Gemini,US,Total,National TV,Activity 1,01/11/2015,147836.4415,Agency1
+Gemini,US,Total,National TV,Activity 1,01/18/2015,150993.0915,Agency1
+Gemini,US,Total,National TV,Activity 1,01/25/2015,125213.7832,Agency1
+Gemini,US,Total,National TV,Activity 1,02/01/2015,410013.7607,Agency1
+Gemini,US,Total,National TV,Activity 1,02/08/2015,384234.4524,Agency1
+Gemini,US,Total,National TV,Activity 1,02/15/2015,234118.2081,Agency1
+Gemini,US,Total,National TV,Activity 1,02/22/2015,183787.1776,Agency1
+Gemini,US,Total,National TV,Activity 1,03/01/2015,64009.84716,Agency1
+Gemini,US,Total,National TV,Activity 1,03/08/2015,17887.68332,Agency1
+Gemini,US,Total,National TV,Activity 1,03/15/2015,10872.90555,Agency1
+Gemini,US,Total,National TV,Activity 1,03/22/2015,18238.42221,Agency1
+Gemini,US,Total,National TV,Activity 1,03/29/2015,876.8472214,Agency1
+Gemini,US,Total,National TV,Activity 1,04/05/2015,142575.3582,Agency1
+Gemini,US,Total,National TV,Activity 1,04/12/2015,49103.4444,Agency1
+Gemini,US,Total,National TV,Activity 1,04/19/2015,169582.2526,Agency1
+Gemini,US,Total,National TV,Activity 1,04/26/2015,231312.297,Agency1
+Gemini,US,Total,National TV,Activity 1,05/03/2015,133806.886,Agency1
+Gemini,US,Total,National TV,Activity 1,05/10/2015,320926.083,Agency1
+Gemini,US,Total,National TV,Activity 1,05/17/2015,213775.3526,Agency1
+Gemini,US,Total,National TV,Activity 1,05/24/2015,48226.59718,Agency1
+Gemini,US,Total,National TV,Activity 1,05/31/2015,5611.822217,Agency1
+Gemini,US,Total,National TV,Activity 1,06/07/2015,3156.649997,Agency1
+Gemini,US,Total,National TV,Activity 1,06/14/2015,49454.18329,Agency1
+Gemini,US,Total,National TV,Activity 2,11/08/2015,74005.90549,Agency1
+Gemini,US,Total,National TV,Activity 2,11/15/2015,64185.21661,Agency1
+Gemini,US,Total,National TV,Activity 2,11/22/2015,527862.0273,Agency1
+Gemini,US,Total,National TV,Activity 2,11/29/2015,419483.7107,Agency1
+Gemini,US,Total,National TV,Activity 2,12/06/2015,504011.7829,Agency1
+Gemini,US,Total,National TV,Activity 2,12/13/2015,579245.2745,Agency1
+Gemini,US,Total,National TV,Activity 2,12/20/2015,482616.7107,Agency1
+Gemini,US,Total,National TV,Activity 2,12/27/2015,411942.8246,Agency1
+Gemini,US,Total,National TV,Activity 2,01/03/2016,9469.949991,Agency1
+Gemini,US,Total,National TV,Activity 2,01/10/2016,147836.4415,Agency1
+Gemini,US,Total,National TV,Activity 2,01/17/2016,150993.0915,Agency1
+Gemini,US,Total,National TV,Activity 2,01/24/2016,125213.7832,Agency1
+Gemini,US,Total,National TV,Activity 2,01/31/2016,410013.7607,Agency1
+Gemini,US,Total,National TV,Activity 2,02/07/2016,384234.4524,Agency1
+Gemini,US,Total,National TV,Activity 2,02/14/2016,234118.2081,Agency1
+Gemini,US,Total,National TV,Activity 2,02/21/2016,183787.1776,Agency1
+Gemini,US,Total,National TV,Activity 2,02/28/2016,64009.84716,Agency1
+Gemini,US,Total,National TV,Activity 2,03/06/2016,17887.68332,Agency1
+Gemini,US,Total,National TV,Activity 2,03/13/2016,10872.90555,Agency1
+Gemini,US,Total,National TV,Activity 2,03/20/2016,18238.42221,Agency1
+Gemini,US,Total,National TV,Activity 2,03/27/2016,876.8472214,Agency1
+Gemini,US,Total,National TV,Activity 2,04/03/2016,142575.3582,Agency1
+Gemini,US,Total,National TV,Activity 2,04/10/2016,49103.4444,Agency1
+Gemini,US,Total,National TV,Activity 2,04/17/2016,169582.2526,Agency1
+Gemini,US,Total,National TV,Activity 2,04/24/2016,231312.297,Agency1
+Gemini,US,Total,National TV,Activity 2,05/01/2016,133806.886,Agency1
+Gemini,US,Total,National TV,Activity 2,05/08/2016,320926.083,Agency1
+Gemini,US,Total,National TV,Activity 2,05/15/2016,213775.3526,Agency1
+Gemini,US,Total,National TV,Activity 2,05/22/2016,48226.59718,Agency1
+Gemini,US,Total,National TV,Activity 2,05/29/2016,5611.822217,Agency1
+Gemini,US,Total,National TV,Activity 2,06/05/2016,3156.649997,Agency1
+Gemini,US,Total,National TV,Activity 2,06/12/2016,49454.18329,Agency1
+Gemini,US,Total,Outdoor,Activity 1,07/13/2014,310000.0,Agency1
+Gemini,US,Total,Outdoor,Activity 2,08/10/2014,29455.0,Agency1
+Gemini,US,Total,Outdoor,Activity 3,08/31/2014,38325.0,Agency1
+Gemini,US,Total,Outdoor,Activity 3,09/07/2014,369815.0,Agency1
+Gemini,US,Total,Outdoor,Activity 3,09/14/2014,38705.0,Agency1
+Gemini,US,Total,Outdoor,Activity 4,09/28/2014,32325.0,Agency1
+Gemini,US,Total,Outdoor,Activity 4,10/05/2014,84230.0,Agency1
+Gemini,US,Total,Outdoor,Activity 4,10/12/2014,247926.0,Agency1
+Gemini,US,Total,Outdoor,Activity 4,10/19/2014,2380.0,Agency1
+Gemini,US,Total,Outdoor,Activity 4,10/26/2014,44480.0,Agency1
+Gemini,US,Total,Outdoor,Activity 4,11/02/2014,98910.0,Agency1
+Gemini,US,Total,Outdoor,Activity 4,11/09/2014,327478.0,Agency1
+Gemini,US,Total,Outdoor,Activity 4,11/16/2014,133980.0,Agency1
+Gemini,US,Total,Outdoor,Activity 4,11/23/2014,129170.0,Agency1
+Gemini,US,Total,Outdoor,Activity 4,11/30/2014,69493.0,Agency1
+Gemini,US,Total,Outdoor,Activity 4,12/07/2014,596643.0,Agency1
+Gemini,US,Total,Outdoor,Activity 4,12/14/2014,55848.0,Agency1
+Gemini,US,Total,Outdoor,Activity 4,12/21/2014,56010.0,Agency1
+Gemini,US,Total,Outdoor,Activity 4,12/28/2014,33705.0,Agency1
+Gemini,US,Total,Outdoor,Activity 4,01/04/2015,38750.0,Agency1
+Gemini,US,Total,Outdoor,Activity 4,01/11/2015,202248.0,Agency1
+Gemini,US,Total,Outdoor,Activity 4,01/18/2015,81436.0,Agency1
+Gemini,US,Total,Outdoor,Activity 5,02/01/2015,236279.0,Agency1
+Gemini,US,Total,Outdoor,Activity 5,02/08/2015,158639.0,Agency1
+Gemini,US,Total,Outdoor,Activity 5,02/15/2015,64111.0,Agency1
+Gemini,US,Total,Outdoor,Activity 6,03/01/2015,100740.0,Agency1
+Gemini,US,Total,Outdoor,Activity 6,03/08/2015,231536.0,Agency1
+Gemini,US,Total,Outdoor,Activity 6,03/15/2015,41000.0,Agency1
+Gemini,US,Total,Outdoor,Activity 6,03/22/2015,7500.0,Agency1
+Gemini,US,Total,Outdoor,Activity 6,03/29/2015,8377.0,Agency1
+Gemini,US,Total,Outdoor,Activity 6,04/05/2015,56000.0,Agency1
+Gemini,US,Total,Outdoor,Activity 6,04/12/2015,19200.0,Agency1
+Gemini,US,Total,Outdoor,Activity 6,04/19/2015,12000.0,Agency1
+Gemini,US,Total,Outdoor,Activity 7,05/10/2015,30969.0,Agency1
+Gemini,US,Total,Outdoor,Activity 8,06/07/2015,160719.0,Agency1
+Gemini,US,Total,Outdoor,Activity 9,06/28/2015,2268.0,Agency1
+Gemini,US,Total,Outdoor,Activity 10,07/12/2015,310000.0,Agency1
+Gemini,US,Total,Outdoor,Activity 11,08/09/2015,29455.0,Agency1
+Gemini,US,Total,Outdoor,Activity 12,08/30/2015,38325.0,Agency1
+Gemini,US,Total,Outdoor,Activity 12,09/06/2015,369815.0,Agency1
+Gemini,US,Total,Outdoor,Activity 12,09/13/2015,38705.0,Agency1
+Gemini,US,Total,Outdoor,Activity 13,09/27/2015,32325.0,Agency1
+Gemini,US,Total,Outdoor,Activity 13,10/04/2015,84230.0,Agency1
+Gemini,US,Total,Outdoor,Activity 13,10/11/2015,247926.0,Agency1
+Gemini,US,Total,Outdoor,Activity 13,10/18/2015,2380.0,Agency1
+Gemini,US,Total,Outdoor,Activity 13,10/25/2015,44480.0,Agency1
+Gemini,US,Total,Outdoor,Activity 13,11/01/2015,98910.0,Agency1
+Gemini,US,Total,Outdoor,Activity 13,11/08/2015,327478.0,Agency1
+Gemini,US,Total,Outdoor,Activity 13,11/15/2015,133980.0,Agency1
+Gemini,US,Total,Outdoor,Activity 13,11/22/2015,129170.0,Agency1
+Gemini,US,Total,Outdoor,Activity 13,11/29/2015,69493.0,Agency1
+Gemini,US,Total,Outdoor,Activity 13,12/06/2015,596643.0,Agency1
+Gemini,US,Total,Outdoor,Activity 13,12/13/2015,55848.0,Agency1
+Gemini,US,Total,Outdoor,Activity 13,12/20/2015,56010.0,Agency1
+Gemini,US,Total,Outdoor,Activity 13,12/27/2015,33705.0,Agency1
+Gemini,US,Total,Outdoor,Activity 13,01/03/2016,38750.0,Agency1
+Gemini,US,Total,Outdoor,Activity 13,01/10/2016,202248.0,Agency1
+Gemini,US,Total,Outdoor,Activity 13,01/17/2016,81436.0,Agency1
+Gemini,US,Total,Outdoor,Activity 14,01/31/2016,236279.0,Agency1
+Gemini,US,Total,Outdoor,Activity 14,02/07/2016,158639.0,Agency1
+Gemini,US,Total,Outdoor,Activity 14,02/14/2016,64111.0,Agency1
+Gemini,US,Total,Outdoor,Activity 15,02/28/2016,100740.0,Agency1
+Gemini,US,Total,Outdoor,Activity 15,03/06/2016,231536.0,Agency1
+Gemini,US,Total,Outdoor,Activity 15,03/13/2016,41000.0,Agency1
+Gemini,US,Total,Outdoor,Activity 15,03/20/2016,7500.0,Agency1
+Gemini,US,Total,Outdoor,Activity 15,03/27/2016,8377.0,Agency1
+Gemini,US,Total,Outdoor,Activity 15,04/03/2016,56000.0,Agency1
+Gemini,US,Total,Outdoor,Activity 15,04/10/2016,19200.0,Agency1
+Gemini,US,Total,Outdoor,Activity 15,04/17/2016,12000.0,Agency1
+Gemini,US,Total,Outdoor,Activity 16,05/08/2016,30969.0,Agency1
+Gemini,US,Total,Outdoor,Activity 17,06/05/2016,160719.0,Agency1
+Gemini,US,Total,Outdoor,Activity 18,06/26/2016,2268.0,Agency1
+Gemini,US,Total,Paid Social,Activity 1,08/31/2014,3662.818464,Agency1
+Gemini,US,Total,Paid Social,Activity 1,09/07/2014,1267.123184,Agency1
+Gemini,US,Total,Paid Social,Activity 2,09/28/2014,1482.825706,Agency1
+Gemini,US,Total,Paid Social,Activity 2,10/05/2014,4141.466897,Agency1
+Gemini,US,Total,Paid Social,Activity 2,10/12/2014,2786.063516,Agency1
+Gemini,US,Total,Paid Social,Activity 2,10/19/2014,30796.58993,Agency1
+Gemini,US,Total,Paid Social,Activity 2,10/26/2014,28217.67296,Agency1
+Gemini,US,Total,Paid Social,Activity 2,11/02/2014,762.9184869,Agency1
+Gemini,US,Total,Paid Social,Activity 2,11/09/2014,20956.8142,Agency1
+Gemini,US,Total,Paid Social,Activity 2,11/16/2014,9615.261948,Agency1
+Gemini,US,Total,Paid Social,Activity 3,11/30/2014,31907.9663,Agency1
+Gemini,US,Total,Paid Social,Activity 4,12/14/2014,49142.62858,Agency1
+Gemini,US,Total,Paid Social,Activity 4,12/21/2014,2081.237962,Agency1
+Gemini,US,Total,Paid Social,Activity 4,12/28/2014,12777.89244,Agency1
+Gemini,US,Total,Paid Social,Activity 5,01/11/2015,344.9557089,Agency1
+Gemini,US,Total,Paid Social,Activity 5,01/18/2015,7010.042801,Agency1
+Gemini,US,Total,Paid Social,Activity 5,01/25/2015,17825.76705,Agency1
+Gemini,US,Total,Paid Social,Activity 5,02/01/2015,2128.25,Agency1
+Gemini,US,Total,Paid Social,Activity 5,02/08/2015,1310.178328,Agency1
+Gemini,US,Total,Paid Social,Activity 5,02/15/2015,8279.722808,Agency1
+Gemini,US,Total,Paid Social,Activity 5,02/22/2015,6508.813752,Agency1
+Gemini,US,Total,Paid Social,Activity 5,03/01/2015,22010.95522,Agency1
+Gemini,US,Total,Paid Social,Activity 6,03/15/2015,3370.566815,Agency1
+Gemini,US,Total,Paid Social,Activity 6,03/22/2015,27857.86693,Agency1
+Gemini,US,Total,Paid Social,Activity 6,03/29/2015,24778.46282,Agency1
+Gemini,US,Total,Paid Social,Activity 6,04/05/2015,1381.649708,Agency1
+Gemini,US,Total,Paid Social,Activity 6,04/12/2015,340.9708943,Agency1
+Gemini,US,Total,Paid Social,Activity 6,04/19/2015,12517.48341,Agency1
+Gemini,US,Total,Paid Social,Activity 7,05/03/2015,3125.462822,Agency1
+Gemini,US,Total,Paid Social,Activity 7,05/10/2015,59769.5867,Agency1
+Gemini,US,Total,Paid Social,Activity 7,05/17/2015,45650.15994,Agency1
+Gemini,US,Total,Paid Social,Activity 7,05/24/2015,17401.40623,Agency1
+Gemini,US,Total,Paid Social,Activity 7,05/31/2015,23365.62865,Agency1
+Gemini,US,Total,Paid Social,Activity 7,06/07/2015,45547.0055,Agency1
+Gemini,US,Total,Paid Social,Activity 7,06/14/2015,39331.39672,Agency1
+Gemini,US,Total,Paid Social,Activity 7,06/21/2015,8509.517773,Agency1
+Gemini,US,Total,Paid Social,Activity 7,06/28/2015,16607.45884,Agency1
+Gemini,US,Total,Paid Social,Activity 8,08/30/2015,3662.818464,Agency1
+Gemini,US,Total,Paid Social,Activity 8,09/06/2015,1267.123184,Agency1
+Gemini,US,Total,Paid Social,Activity 9,09/27/2015,1482.825706,Agency1
+Gemini,US,Total,Paid Social,Activity 9,10/04/2015,4141.466897,Agency1
+Gemini,US,Total,Paid Social,Activity 9,10/11/2015,2786.063516,Agency1
+Gemini,US,Total,Paid Social,Activity 9,10/18/2015,30796.58993,Agency1
+Gemini,US,Total,Paid Social,Activity 9,10/25/2015,28217.67296,Agency1
+Gemini,US,Total,Paid Social,Activity 9,11/01/2015,762.9184869,Agency1
+Gemini,US,Total,Paid Social,Activity 9,11/08/2015,20956.8142,Agency1
+Gemini,US,Total,Paid Social,Activity 9,11/15/2015,9615.261948,Agency1
+Gemini,US,Total,Paid Social,Activity 10,11/29/2015,31907.9663,Agency1
+Gemini,US,Total,Paid Social,Activity 11,12/13/2015,49142.62858,Agency1
+Gemini,US,Total,Paid Social,Activity 11,12/20/2015,2081.237962,Agency1
+Gemini,US,Total,Paid Social,Activity 11,12/27/2015,12777.89244,Agency1
+Gemini,US,Total,Paid Social,Activity 12,01/10/2016,344.9557089,Agency1
+Gemini,US,Total,Paid Social,Activity 12,01/17/2016,7010.042801,Agency1
+Gemini,US,Total,Paid Social,Activity 12,01/24/2016,17825.76705,Agency1
+Gemini,US,Total,Paid Social,Activity 12,01/31/2016,2128.25,Agency1
+Gemini,US,Total,Paid Social,Activity 12,02/07/2016,1310.178328,Agency1
+Gemini,US,Total,Paid Social,Activity 12,02/14/2016,8279.722808,Agency1
+Gemini,US,Total,Paid Social,Activity 12,02/21/2016,6508.813752,Agency1
+Gemini,US,Total,Paid Social,Activity 12,02/28/2016,22010.95522,Agency1
+Gemini,US,Total,Paid Social,Activity 13,03/13/2016,3370.566815,Agency1
+Gemini,US,Total,Paid Social,Activity 13,03/20/2016,27857.86693,Agency1
+Gemini,US,Total,Paid Social,Activity 13,03/27/2016,24778.46282,Agency1
+Gemini,US,Total,Paid Social,Activity 13,04/03/2016,1381.649708,Agency1
+Gemini,US,Total,Paid Social,Activity 13,04/10/2016,340.9708943,Agency1
+Gemini,US,Total,Paid Social,Activity 13,04/17/2016,12517.48341,Agency1
+Gemini,US,Total,Paid Social,Activity 14,05/01/2016,3125.462822,Agency1
+Gemini,US,Total,Paid Social,Activity 14,05/08/2016,59769.5867,Agency1
+Gemini,US,Total,Paid Social,Activity 14,05/15/2016,45650.15994,Agency1
+Gemini,US,Total,Paid Social,Activity 14,05/22/2016,17401.40623,Agency1
+Gemini,US,Total,Paid Social,Activity 14,05/29/2016,23365.62865,Agency1
+Gemini,US,Total,Paid Social,Activity 14,06/05/2016,45547.0055,Agency1
+Gemini,US,Total,Paid Social,Activity 14,06/12/2016,39331.39672,Agency1
+Gemini,US,Total,Paid Social,Activity 14,06/19/2016,8509.517773,Agency1
+Gemini,US,Total,Paid Social,Activity 14,06/26/2016,16607.45884,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,07/06/2014,371.5318767,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,07/13/2014,318.4558943,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,07/20/2014,344.9938855,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,07/27/2014,9160.91456,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,08/03/2014,451.1458503,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,08/10/2014,689.987771,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,08/17/2014,1114.59563,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,08/24/2014,1804.583401,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,08/31/2014,9171.529756,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,09/07/2014,15715.79838,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,09/14/2014,7664.171857,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,09/21/2014,3832.085928,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,09/28/2014,5864.896054,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,10/05/2014,2123.039295,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,10/12/2014,1703.739035,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,10/19/2014,684.6801728,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,10/26/2014,4389.383743,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,11/02/2014,10349.81657,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,11/09/2014,16145.71384,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,11/16/2014,25131.47766,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,11/23/2014,22636.90649,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,11/30/2014,31967.66419,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,12/07/2014,56329.54011,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,12/14/2014,97187.43135,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,12/21/2014,58686.11372,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,12/28/2014,17653.07174,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,01/04/2015,1512.665498,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,01/11/2015,716.5257622,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,01/18/2015,2759.951084,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,01/25/2015,14829.42948,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,02/01/2015,9543.061633,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,02/08/2015,8168.393689,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,02/15/2015,5732.206098,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,02/22/2015,13693.60346,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,03/01/2015,19409.88676,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,03/08/2015,11623.64014,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,03/15/2015,19993.72257,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,03/22/2015,14702.04712,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,03/29/2015,5238.599462,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,04/05/2015,6475.269851,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,04/12/2015,5360.674221,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,04/19/2015,3975.391081,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,04/26/2015,14335.82284,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,05/03/2015,16968.39157,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,05/10/2015,10110.97464,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,05/17/2015,32620.49877,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,05/24/2015,17058.62074,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,05/31/2015,17010.85235,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,06/07/2015,28852.10403,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,06/14/2015,63234.72542,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,06/21/2015,59206.25835,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,06/28/2015,4166.464617,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,07/05/2015,371.5318767,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,07/12/2015,318.4558943,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,07/19/2015,344.9938855,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,07/26/2015,9160.91456,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,08/02/2015,451.1458503,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,08/09/2015,689.987771,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,08/16/2015,1114.59563,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,08/23/2015,1804.583401,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,08/30/2015,9171.529756,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,09/06/2015,15715.79838,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,09/13/2015,7664.171857,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,09/20/2015,3832.085928,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,09/27/2015,5864.896054,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,10/04/2015,2123.039295,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,10/11/2015,1703.739035,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,10/18/2015,684.6801728,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,10/25/2015,4389.383743,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,11/01/2015,10349.81657,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,11/08/2015,16145.71384,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,11/15/2015,25131.47766,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,11/22/2015,22636.90649,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,11/29/2015,31967.66419,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,12/06/2015,56329.54011,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,12/13/2015,97187.43135,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,12/20/2015,58686.11372,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,12/27/2015,17653.07174,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,01/03/2016,1512.665498,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,01/10/2016,716.5257622,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,01/17/2016,2759.951084,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,01/24/2016,14829.42948,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,01/31/2016,9543.061633,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,02/07/2016,8168.393689,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,02/14/2016,5732.206098,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,02/21/2016,13693.60346,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,02/28/2016,19409.88676,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,03/06/2016,11623.64014,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,03/13/2016,19993.72257,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,03/20/2016,14702.04712,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,03/27/2016,5238.599462,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,04/03/2016,6475.269851,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,04/10/2016,5360.674221,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,04/17/2016,3975.391081,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,04/24/2016,14335.82284,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,05/01/2016,16968.39157,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,05/08/2016,10110.97464,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,05/15/2016,32620.49877,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,05/22/2016,17058.62074,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,05/29/2016,17010.85235,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,06/05/2016,28852.10403,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,06/12/2016,63234.72542,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,06/19/2016,59206.25835,Agency1
+Gemini,US,Total,Sampling - Off Premise,Activity 1,06/26/2016,4166.464617,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,07/06/2014,4753.358722,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,07/13/2014,7617.183542,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,07/20/2014,5284.790132,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,07/27/2014,18068.66794,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,08/03/2014,1594.29423,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,08/10/2014,3029.159036,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,08/17/2014,7776.612965,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,08/24/2014,33226.27271,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,08/31/2014,27551.76621,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,09/07/2014,16320.84908,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,09/14/2014,52334.18429,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,09/21/2014,51613.79949,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,09/28/2014,42827.46684,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,10/05/2014,46630.15382,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,10/12/2014,37938.29787,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,10/19/2014,23760.88882,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,10/26/2014,24209.65312,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,11/02/2014,35039.04429,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,11/09/2014,37034.86448,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,11/16/2014,30456.92458,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,11/23/2014,50031.31484,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,11/30/2014,79962.71281,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,12/07/2014,106581.5217,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,12/14/2014,141596.9468,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,12/21/2014,89522.57339,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,12/28/2014,44539.85694,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,01/04/2015,22798.40748,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,01/11/2015,5491.457902,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,01/18/2015,8827.666198,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,01/25/2015,14366.36245,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,02/01/2015,12352.82788,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,02/08/2015,29848.73086,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,02/15/2015,25555.94602,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,02/22/2015,45655.8629,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,03/01/2015,48531.49731,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,03/08/2015,34838.28132,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,03/15/2015,38286.68069,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,03/22/2015,110956.9736,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,03/29/2015,56125.06168,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,04/05/2015,27002.62042,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,04/12/2015,23276.69575,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,04/19/2015,23040.50402,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,04/26/2015,30539.59169,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,05/03/2015,25461.46933,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,05/10/2015,23772.6984,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,05/17/2015,28768.15366,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,05/24/2015,40495.07343,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,05/31/2015,66239.97285,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,06/07/2015,40146.69062,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,06/14/2015,46417.58126,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,06/21/2015,54743.34001,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,06/28/2015,71932.19373,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,07/05/2015,4753.358722,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,07/12/2015,7617.183542,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,07/19/2015,5284.790132,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,07/26/2015,18068.66794,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,08/02/2015,1594.29423,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,08/09/2015,3029.159036,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,08/16/2015,7776.612965,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,08/23/2015,33226.27271,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,08/30/2015,27551.76621,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,09/06/2015,16320.84908,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,09/13/2015,52334.18429,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,09/20/2015,51613.79949,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,09/27/2015,42827.46684,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,10/04/2015,46630.15382,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,10/11/2015,37938.29787,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,10/18/2015,23760.88882,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,10/25/2015,24209.65312,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,11/01/2015,35039.04429,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,11/08/2015,37034.86448,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,11/15/2015,30456.92458,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,11/22/2015,50031.31484,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,11/29/2015,79962.71281,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,12/06/2015,106581.5217,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,12/13/2015,141596.9468,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,12/20/2015,89522.57339,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,12/27/2015,44539.85694,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,01/03/2016,22798.40748,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,01/10/2016,5491.457902,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,01/17/2016,8827.666198,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,01/24/2016,14366.36245,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,01/31/2016,12352.82788,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,02/07/2016,29848.73086,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,02/14/2016,25555.94602,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,02/21/2016,45655.8629,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,02/28/2016,48531.49731,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,03/06/2016,34838.28132,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,03/13/2016,38286.68069,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,03/20/2016,110956.9736,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,03/27/2016,56125.06168,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,04/03/2016,27002.62042,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,04/10/2016,23276.69575,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,04/17/2016,23040.50402,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,04/24/2016,30539.59169,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,05/01/2016,25461.46933,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,05/08/2016,23772.6984,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,05/15/2016,28768.15366,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,05/22/2016,40495.07343,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,05/29/2016,66239.97285,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,06/05/2016,40146.69062,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,06/12/2016,46417.58126,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,06/19/2016,54743.34001,Agency1
+Gemini,US,Total,Sampling - On Premise,Activity 1,06/26/2016,71932.19373,Agency1
+Gemini,US,Total,Trade,Activity 1,07/06/2014,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,07/13/2014,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,07/20/2014,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,07/27/2014,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,08/03/2014,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,08/10/2014,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,08/17/2014,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,08/24/2014,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,08/31/2014,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,09/07/2014,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,09/14/2014,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,09/21/2014,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,09/28/2014,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,10/05/2014,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,10/12/2014,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,10/19/2014,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,10/26/2014,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,11/02/2014,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,11/09/2014,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,11/16/2014,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,11/23/2014,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,11/30/2014,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,12/07/2014,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,12/14/2014,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,12/21/2014,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,12/28/2014,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,01/04/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,01/11/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,01/18/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,01/25/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,02/01/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,02/08/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,02/15/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,02/22/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,03/01/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,03/08/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,03/15/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,03/22/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,03/29/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,04/05/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,04/12/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,04/19/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,04/26/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,05/03/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,05/10/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,05/17/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,05/24/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,05/31/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,06/07/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,06/14/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,06/21/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,06/28/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,07/05/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,07/12/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,07/19/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,07/26/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,08/02/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,08/09/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,08/16/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,08/23/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,08/30/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,09/06/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,09/13/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,09/20/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,09/27/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,10/04/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,10/11/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,10/18/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,10/25/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,11/01/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,11/08/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,11/15/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,11/22/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,11/29/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,12/06/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,12/13/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,12/20/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,12/27/2015,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,01/03/2016,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,01/10/2016,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,01/17/2016,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,01/24/2016,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,01/31/2016,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,02/07/2016,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,02/14/2016,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,02/21/2016,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,02/28/2016,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,03/06/2016,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,03/13/2016,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,03/20/2016,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,03/27/2016,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,04/03/2016,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,04/10/2016,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,04/17/2016,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,04/24/2016,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,05/01/2016,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,05/08/2016,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,05/15/2016,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,05/22/2016,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,05/29/2016,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,06/05/2016,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,06/12/2016,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,06/19/2016,1049768.25,Agency1
+Gemini,US,Total,Trade,Activity 1,06/26/2016,1049768.25,Agency1
+Gemini,US,Total,VAP,Activity 1,11/02/2014,666666.6667,Agency1
+Gemini,US,Total,VAP,Activity 1,11/09/2014,666666.6667,Agency1
+Gemini,US,Total,VAP,Activity 1,11/16/2014,666666.6667,Agency1
+Gemini,US,Total,VAP,Activity 1,11/23/2014,666666.6667,Agency1
+Gemini,US,Total,VAP,Activity 1,11/30/2014,666666.6667,Agency1
+Gemini,US,Total,VAP,Activity 1,12/07/2014,666666.6667,Agency1
+Gemini,US,Total,VAP,Activity 1,12/14/2014,666666.6667,Agency1
+Gemini,US,Total,VAP,Activity 1,12/21/2014,666666.6667,Agency1
+Gemini,US,Total,VAP,Activity 1,12/28/2014,666666.6667,Agency1
+Gemini,US,Total,VAP,Activity 2,06/07/2015,666666.6667,Agency1
+Gemini,US,Total,VAP,Activity 2,06/14/2015,666666.6667,Agency1
+Gemini,US,Total,VAP,Activity 2,06/21/2015,666666.6667,Agency1
+Gemini,US,Total,VAP,Activity 3,11/01/2015,666666.6667,Agency1
+Gemini,US,Total,VAP,Activity 3,11/08/2015,666666.6667,Agency1
+Gemini,US,Total,VAP,Activity 3,11/15/2015,666666.6667,Agency1
+Gemini,US,Total,VAP,Activity 3,11/22/2015,666666.6667,Agency1
+Gemini,US,Total,VAP,Activity 3,11/29/2015,666666.6667,Agency1
+Gemini,US,Total,VAP,Activity 3,12/06/2015,666666.6667,Agency1
+Gemini,US,Total,VAP,Activity 3,12/13/2015,666666.6667,Agency1
+Gemini,US,Total,VAP,Activity 3,12/20/2015,666666.6667,Agency1
+Gemini,US,Total,VAP,Activity 3,12/27/2015,666666.6667,Agency1
+Gemini,US,Total,VAP,Activity 4,06/05/2016,666666.6667,Agency1
+Gemini,US,Total,VAP,Activity 4,06/12/2016,666666.6667,Agency1
+Gemini,US,Total,VAP,Activity 4,06/19/2016,666666.6667,Agency1
+Capricorn,US,Total,Digital Total,Activity 1,07/06/2014,20962.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 1,07/13/2014,20962.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 1,07/20/2014,15079.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 1,07/27/2014,15069.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 1,08/03/2014,80034.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 1,08/10/2014,386509.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 1,08/17/2014,321814.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 1,08/24/2014,15069.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 1,08/31/2014,119010.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 1,09/07/2014,119010.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 1,09/14/2014,143664.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 2,10/05/2014,13622.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 2,10/12/2014,13622.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 2,10/19/2014,13622.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 3,11/02/2014,106426.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 3,11/09/2014,106426.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 3,11/16/2014,106426.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 4,11/30/2014,251723.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 4,12/07/2014,327060.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 4,12/14/2014,311960.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 4,12/21/2014,311960.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 5,01/04/2015,229233.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 5,01/11/2015,229233.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 5,01/18/2015,42539.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 6,02/01/2015,11646.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 6,02/08/2015,11646.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 6,02/15/2015,11646.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 7,03/01/2015,155616.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 7,03/08/2015,22433.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 7,03/15/2015,22433.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 7,03/22/2015,22433.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 8,04/05/2015,55956.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 8,04/12/2015,767.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 8,04/19/2015,767.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 9,05/03/2015,218669.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 9,05/10/2015,141947.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 9,05/17/2015,103527.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 9,05/24/2015,85368.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 9,05/31/2015,303987.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 9,06/07/2015,275713.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 9,06/14/2015,212517.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 9,06/21/2015,105994.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 10,07/05/2015,20962.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 10,07/12/2015,20962.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 10,07/19/2015,15079.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 10,07/26/2015,15069.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 10,08/02/2015,80034.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 10,08/09/2015,386509.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 10,08/16/2015,321814.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 10,08/23/2015,15069.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 10,08/30/2015,119010.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 10,09/06/2015,119010.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 10,09/13/2015,143664.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 11,10/04/2015,13622.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 11,10/11/2015,13622.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 11,10/18/2015,13622.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 12,11/01/2015,106426.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 12,11/08/2015,106426.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 12,11/15/2015,106426.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 13,11/29/2015,251723.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 13,12/06/2015,327060.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 13,12/13/2015,311960.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 13,12/20/2015,311960.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 14,01/03/2016,229233.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 14,01/10/2016,229233.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 14,01/17/2016,42539.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 15,01/31/2016,11646.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 15,02/07/2016,11646.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 15,02/14/2016,11646.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 16,02/28/2016,155616.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 16,03/06/2016,22433.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 16,03/13/2016,22433.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 16,03/20/2016,22433.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 17,04/03/2016,55956.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 17,04/10/2016,767.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 17,04/17/2016,767.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 18,05/01/2016,218669.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 18,05/08/2016,141947.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 18,05/15/2016,103527.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 18,05/22/2016,85368.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 18,05/29/2016,303987.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 18,06/05/2016,275713.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 18,06/12/2016,212517.0,Agency1
+Capricorn,US,Total,Digital Total,Activity 18,06/19/2016,105994.0,Agency1
+Capricorn,US,Total,Magazines,Activity 1,07/06/2014,13671.88998,Agency1
+Capricorn,US,Total,Magazines,Activity 1,07/13/2014,2929.69071,Agency1
+Capricorn,US,Total,Magazines,Activity 1,07/20/2014,1953.12714,Agency1
+Capricorn,US,Total,Magazines,Activity 1,07/27/2014,976.5635701,Agency1
+Capricorn,US,Total,Magazines,Activity 1,08/03/2014,26064.97969,Agency1
+Capricorn,US,Total,Magazines,Activity 1,08/10/2014,7509.880081,Agency1
+Capricorn,US,Total,Magazines,Activity 1,08/17/2014,4135.967232,Agency1
+Capricorn,US,Total,Magazines,Activity 1,08/24/2014,2136.716734,Agency1
+Capricorn,US,Total,Magazines,Activity 1,08/31/2014,137.466235,Agency1
+Capricorn,US,Total,Magazines,Activity 1,09/07/2014,3823.554593,Agency1
+Capricorn,US,Total,Magazines,Activity 1,09/14/2014,819.3331271,Agency1
+Capricorn,US,Total,Magazines,Activity 1,09/21/2014,546.2220848,Agency1
+Capricorn,US,Total,Magazines,Activity 1,09/28/2014,96745.57447,Agency1
+Capricorn,US,Total,Magazines,Activity 1,10/05/2014,78483.59411,Agency1
+Capricorn,US,Total,Magazines,Activity 1,10/12/2014,26169.8355,Agency1
+Capricorn,US,Total,Magazines,Activity 1,10/19/2014,16051.71575,Agency1
+Capricorn,US,Total,Magazines,Activity 1,10/26/2014,4322.663563,Agency1
+Capricorn,US,Total,Magazines,Activity 1,11/02/2014,79251.53205,Agency1
+Capricorn,US,Total,Magazines,Activity 1,11/09/2014,17019.29247,Agency1
+Capricorn,US,Total,Magazines,Activity 1,11/16/2014,11303.23678,Agency1
+Capricorn,US,Total,Magazines,Activity 1,11/23/2014,5651.618389,Agency1
+Capricorn,US,Total,Magazines,Activity 2,12/07/2014,107757.3622,Agency1
+Capricorn,US,Total,Magazines,Activity 2,12/14/2014,112639.6474,Agency1
+Capricorn,US,Total,Magazines,Activity 2,12/21/2014,34582.93404,Agency1
+Capricorn,US,Total,Magazines,Activity 2,12/28/2014,20489.63788,Agency1
+Capricorn,US,Total,Magazines,Activity 2,01/04/2015,14724.25243,Agency1
+Capricorn,US,Total,Magazines,Activity 2,01/11/2015,1784.552296,Agency1
+Capricorn,US,Total,Magazines,Activity 2,01/18/2015,1189.701531,Agency1
+Capricorn,US,Total,Magazines,Activity 2,01/25/2015,594.8507654,Agency1
+Capricorn,US,Total,Magazines,Activity 3,02/08/2015,6180.13826,Agency1
+Capricorn,US,Total,Magazines,Activity 3,02/15/2015,136083.3728,Agency1
+Capricorn,US,Total,Magazines,Activity 3,02/22/2015,164518.8752,Agency1
+Capricorn,US,Total,Magazines,Activity 3,03/01/2015,183328.7307,Agency1
+Capricorn,US,Total,Magazines,Activity 3,03/08/2015,109700.7705,Agency1
+Capricorn,US,Total,Magazines,Activity 3,03/15/2015,40008.41704,Agency1
+Capricorn,US,Total,Magazines,Activity 3,03/22/2015,17046.63106,Agency1
+Capricorn,US,Total,Magazines,Activity 3,03/29/2015,3710.492052,Agency1
+Capricorn,US,Total,Magazines,Activity 3,04/05/2015,80113.0192,Agency1
+Capricorn,US,Total,Magazines,Activity 3,04/12/2015,17167.07554,Agency1
+Capricorn,US,Total,Magazines,Activity 3,04/19/2015,11444.71703,Agency1
+Capricorn,US,Total,Magazines,Activity 3,04/26/2015,5722.358514,Agency1
+Capricorn,US,Total,Magazines,Activity 3,05/03/2015,98855.60557,Agency1
+Capricorn,US,Total,Magazines,Activity 3,05/10/2015,24310.7009,Agency1
+Capricorn,US,Total,Magazines,Activity 3,05/17/2015,14792.37726,Agency1
+Capricorn,US,Total,Magazines,Activity 3,05/24/2015,9432.407237,Agency1
+Capricorn,US,Total,Magazines,Activity 3,05/31/2015,4141.788927,Agency1
+Capricorn,US,Total,Magazines,Activity 3,06/07/2015,207337.4217,Agency1
+Capricorn,US,Total,Magazines,Activity 3,06/14/2015,46772.39502,Agency1
+Capricorn,US,Total,Magazines,Activity 3,06/21/2015,91213.80945,Agency1
+Capricorn,US,Total,Magazines,Activity 3,06/28/2015,44074.50331,Agency1
+Capricorn,US,Total,Magazines,Activity 3,07/05/2015,13671.88998,Agency1
+Capricorn,US,Total,Magazines,Activity 3,07/12/2015,2929.69071,Agency1
+Capricorn,US,Total,Magazines,Activity 3,07/19/2015,1953.12714,Agency1
+Capricorn,US,Total,Magazines,Activity 3,07/26/2015,976.5635701,Agency1
+Capricorn,US,Total,Magazines,Activity 3,08/02/2015,26064.97969,Agency1
+Capricorn,US,Total,Magazines,Activity 3,08/09/2015,7509.880081,Agency1
+Capricorn,US,Total,Magazines,Activity 3,08/16/2015,4135.967232,Agency1
+Capricorn,US,Total,Magazines,Activity 3,08/23/2015,2136.716734,Agency1
+Capricorn,US,Total,Magazines,Activity 3,08/30/2015,137.466235,Agency1
+Capricorn,US,Total,Magazines,Activity 3,09/06/2015,3823.554593,Agency1
+Capricorn,US,Total,Magazines,Activity 3,09/13/2015,819.3331271,Agency1
+Capricorn,US,Total,Magazines,Activity 3,09/20/2015,546.2220848,Agency1
+Capricorn,US,Total,Magazines,Activity 3,09/27/2015,96745.57447,Agency1
+Capricorn,US,Total,Magazines,Activity 3,10/04/2015,78483.59411,Agency1
+Capricorn,US,Total,Magazines,Activity 3,10/11/2015,26169.8355,Agency1
+Capricorn,US,Total,Magazines,Activity 3,10/18/2015,16051.71575,Agency1
+Capricorn,US,Total,Magazines,Activity 3,10/25/2015,4322.663563,Agency1
+Capricorn,US,Total,Magazines,Activity 3,11/01/2015,79251.53205,Agency1
+Capricorn,US,Total,Magazines,Activity 3,11/08/2015,17019.29247,Agency1
+Capricorn,US,Total,Magazines,Activity 3,11/15/2015,11303.23678,Agency1
+Capricorn,US,Total,Magazines,Activity 3,11/22/2015,5651.618389,Agency1
+Capricorn,US,Total,Magazines,Activity 4,12/06/2015,107757.3622,Agency1
+Capricorn,US,Total,Magazines,Activity 4,12/13/2015,112639.6474,Agency1
+Capricorn,US,Total,Magazines,Activity 4,12/20/2015,34582.93404,Agency1
+Capricorn,US,Total,Magazines,Activity 4,12/27/2015,20489.63788,Agency1
+Capricorn,US,Total,Magazines,Activity 4,01/03/2016,14724.25243,Agency1
+Capricorn,US,Total,Magazines,Activity 4,01/10/2016,1784.552296,Agency1
+Capricorn,US,Total,Magazines,Activity 4,01/17/2016,1189.701531,Agency1
+Capricorn,US,Total,Magazines,Activity 4,01/24/2016,594.8507654,Agency1
+Capricorn,US,Total,Magazines,Activity 5,02/07/2016,6180.13826,Agency1
+Capricorn,US,Total,Magazines,Activity 5,02/14/2016,136083.3728,Agency1
+Capricorn,US,Total,Magazines,Activity 5,02/21/2016,164518.8752,Agency1
+Capricorn,US,Total,Magazines,Activity 5,02/28/2016,183328.7307,Agency1
+Capricorn,US,Total,Magazines,Activity 5,03/06/2016,109700.7705,Agency1
+Capricorn,US,Total,Magazines,Activity 5,03/13/2016,40008.41704,Agency1
+Capricorn,US,Total,Magazines,Activity 5,03/20/2016,17046.63106,Agency1
+Capricorn,US,Total,Magazines,Activity 5,03/27/2016,3710.492052,Agency1
+Capricorn,US,Total,Magazines,Activity 5,04/03/2016,80113.0192,Agency1
+Capricorn,US,Total,Magazines,Activity 5,04/10/2016,17167.07554,Agency1
+Capricorn,US,Total,Magazines,Activity 5,04/17/2016,11444.71703,Agency1
+Capricorn,US,Total,Magazines,Activity 5,04/24/2016,5722.358514,Agency1
+Capricorn,US,Total,Magazines,Activity 5,05/01/2016,98855.60557,Agency1
+Capricorn,US,Total,Magazines,Activity 5,05/08/2016,24310.7009,Agency1
+Capricorn,US,Total,Magazines,Activity 5,05/15/2016,14792.37726,Agency1
+Capricorn,US,Total,Magazines,Activity 5,05/22/2016,9432.407237,Agency1
+Capricorn,US,Total,Magazines,Activity 5,05/29/2016,4141.788927,Agency1
+Capricorn,US,Total,Magazines,Activity 5,06/05/2016,207337.4217,Agency1
+Capricorn,US,Total,Magazines,Activity 5,06/12/2016,46772.39502,Agency1
+Capricorn,US,Total,Magazines,Activity 5,06/19/2016,91213.80945,Agency1
+Capricorn,US,Total,Magazines,Activity 5,06/26/2016,44074.50331,Agency1
+Capricorn,US,Total,National TV,Activity 1,09/28/2014,313741.0134,Agency1
+Capricorn,US,Total,National TV,Activity 1,10/05/2014,313741.0134,Agency1
+Capricorn,US,Total,National TV,Activity 1,10/12/2014,591000.5135,Agency1
+Capricorn,US,Total,National TV,Activity 1,10/19/2014,561815.303,Agency1
+Capricorn,US,Total,National TV,Activity 1,10/26/2014,418807.7713,Agency1
+Capricorn,US,Total,National TV,Activity 1,11/02/2014,306444.7107,Agency1
+Capricorn,US,Total,National TV,Activity 1,11/09/2014,262666.8949,Agency1
+Capricorn,US,Total,National TV,Activity 1,11/16/2014,232022.4238,Agency1
+Capricorn,US,Total,National TV,Activity 1,11/23/2014,121118.6238,Agency1
+Capricorn,US,Total,National TV,Activity 1,11/30/2014,373570.695,Agency1
+Capricorn,US,Total,National TV,Activity 1,12/07/2014,431941.1161,Agency1
+Capricorn,US,Total,National TV,Activity 1,12/14/2014,313741.0134,Agency1
+Capricorn,US,Total,National TV,Activity 1,12/21/2014,21888.90791,Agency1
+Capricorn,US,Total,National TV,Activity 2,09/27/2015,313741.0134,Agency1
+Capricorn,US,Total,National TV,Activity 2,10/04/2015,313741.0134,Agency1
+Capricorn,US,Total,National TV,Activity 2,10/11/2015,591000.5135,Agency1
+Capricorn,US,Total,National TV,Activity 2,10/18/2015,561815.303,Agency1
+Capricorn,US,Total,National TV,Activity 2,10/25/2015,418807.7713,Agency1
+Capricorn,US,Total,National TV,Activity 2,11/01/2015,306444.7107,Agency1
+Capricorn,US,Total,National TV,Activity 2,11/08/2015,262666.8949,Agency1
+Capricorn,US,Total,National TV,Activity 2,11/15/2015,232022.4238,Agency1
+Capricorn,US,Total,National TV,Activity 2,11/22/2015,121118.6238,Agency1
+Capricorn,US,Total,National TV,Activity 2,11/29/2015,373570.695,Agency1
+Capricorn,US,Total,National TV,Activity 2,12/06/2015,431941.1161,Agency1
+Capricorn,US,Total,National TV,Activity 2,12/13/2015,313741.0134,Agency1
+Capricorn,US,Total,National TV,Activity 2,12/20/2015,21888.90791,Agency1
+Capricorn,US,Total,Newspapers,Activity 1,08/24/2014,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 2,09/14/2014,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 3,09/28/2014,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 4,10/12/2014,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 5,10/26/2014,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 6,11/09/2014,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 7,11/23/2014,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 8,12/07/2014,250000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 8,12/14/2014,15733.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 8,12/21/2014,11984.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 9,01/11/2015,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 9,01/18/2015,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 9,01/25/2015,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 9,02/01/2015,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 10,02/15/2015,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 11,03/01/2015,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 12,03/15/2015,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 13,03/29/2015,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 14,04/12/2015,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 15,04/26/2015,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 16,06/07/2015,150000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 17,08/23/2015,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 18,09/13/2015,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 19,09/27/2015,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 20,10/11/2015,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 21,10/25/2015,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 22,11/08/2015,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 23,11/22/2015,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 24,12/06/2015,250000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 24,12/13/2015,15733.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 24,12/20/2015,11984.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 25,01/10/2016,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 25,01/17/2016,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 25,01/24/2016,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 25,01/31/2016,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 26,02/14/2016,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 27,02/28/2016,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 28,03/13/2016,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 29,03/27/2016,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 30,04/10/2016,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 31,04/24/2016,100000.0,Agency1
+Capricorn,US,Total,Newspapers,Activity 32,06/05/2016,150000.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 1,07/13/2014,63000.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 2,08/03/2014,23625.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 2,08/10/2014,26250.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 3,08/31/2014,10500.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 3,09/07/2014,59760.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 4,10/05/2014,21510.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 4,10/12/2014,37467.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 5,10/26/2014,22875.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 5,11/02/2014,273675.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 5,11/09/2014,205896.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 6,11/23/2014,148130.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 6,11/30/2014,308125.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 6,12/07/2014,484545.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 6,12/14/2014,28681.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 6,12/21/2014,65420.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 6,12/28/2014,67618.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 6,01/04/2015,43360.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 6,01/11/2015,18000.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 7,02/01/2015,27675.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 7,02/08/2015,18000.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 8,02/22/2015,27125.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 9,03/22/2015,27125.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 10,04/19/2015,27125.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 11,05/03/2015,65500.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 11,05/10/2015,382533.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 11,05/17/2015,360458.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 11,05/24/2015,401133.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 11,05/31/2015,332710.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 11,06/07/2015,124360.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 11,06/14/2015,40032.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 12,06/28/2015,52688.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 13,07/12/2015,63000.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 14,08/02/2015,23625.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 14,08/09/2015,26250.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 15,08/30/2015,10500.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 15,09/06/2015,59760.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 16,10/04/2015,21510.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 16,10/11/2015,37467.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 17,10/25/2015,22875.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 17,11/01/2015,273675.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 17,11/08/2015,205896.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 18,11/22/2015,148130.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 18,11/29/2015,308125.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 18,12/06/2015,484545.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 18,12/13/2015,28681.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 18,12/20/2015,65420.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 18,12/27/2015,67618.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 18,01/03/2016,43360.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 18,01/10/2016,18000.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 19,01/31/2016,27675.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 19,02/07/2016,18000.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 20,02/21/2016,27125.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 21,03/20/2016,27125.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 22,04/17/2016,27125.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 23,05/01/2016,65500.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 23,05/08/2016,382533.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 23,05/15/2016,360458.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 23,05/22/2016,401133.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 23,05/29/2016,332710.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 23,06/05/2016,124360.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 23,06/12/2016,40032.0,Agency1
+Capricorn,US,Total,Outdoor,Activity 24,06/26/2016,52688.0,Agency1
+Capricorn,US,Total,Paid Social,Activity 1,08/03/2014,4321.328404,Agency1
+Capricorn,US,Total,Paid Social,Activity 1,08/10/2014,14706.22571,Agency1
+Capricorn,US,Total,Paid Social,Activity 2,09/21/2014,11748.68955,Agency1
+Capricorn,US,Total,Paid Social,Activity 3,10/05/2014,720.2245741,Agency1
+Capricorn,US,Total,Paid Social,Activity 3,10/12/2014,146.9225635,Agency1
+Capricorn,US,Total,Paid Social,Activity 3,10/19/2014,8970.647833,Agency1
+Capricorn,US,Total,Paid Social,Activity 3,10/26/2014,19452.25165,Agency1
+Capricorn,US,Total,Paid Social,Activity 3,11/02/2014,16622.94032,Agency1
+Capricorn,US,Total,Paid Social,Activity 3,11/09/2014,50406.14283,Agency1
+Capricorn,US,Total,Paid Social,Activity 3,11/16/2014,10162.39045,Agency1
+Capricorn,US,Total,Paid Social,Activity 4,11/30/2014,1394.485469,Agency1
+Capricorn,US,Total,Paid Social,Activity 4,12/07/2014,3526.465213,Agency1
+Capricorn,US,Total,Paid Social,Activity 4,12/14/2014,3168.015793,Agency1
+Capricorn,US,Total,Paid Social,Activity 4,12/21/2014,4327.973526,Agency1
+Capricorn,US,Total,Paid Social,Activity 4,12/28/2014,3883.810286,Agency1
+Capricorn,US,Total,Paid Social,Activity 4,01/04/2015,94577.44779,Agency1
+Capricorn,US,Total,Paid Social,Activity 4,01/11/2015,63466.32681,Agency1
+Capricorn,US,Total,Paid Social,Activity 5,05/17/2015,8852.596959,Agency1
+Capricorn,US,Total,Paid Social,Activity 5,05/24/2015,38432.14748,Agency1
+Capricorn,US,Total,Paid Social,Activity 5,05/31/2015,43855.61408,Agency1
+Capricorn,US,Total,Paid Social,Activity 5,06/07/2015,68172.52645,Agency1
+Capricorn,US,Total,Paid Social,Activity 5,06/14/2015,43108.70112,Agency1
+Capricorn,US,Total,Paid Social,Activity 5,06/21/2015,96009.0939,Agency1
+Capricorn,US,Total,Paid Social,Activity 5,06/28/2015,134.3812449,Agency1
+Capricorn,US,Total,Paid Social,Activity 6,08/02/2015,4321.328404,Agency1
+Capricorn,US,Total,Paid Social,Activity 6,08/09/2015,14706.22571,Agency1
+Capricorn,US,Total,Paid Social,Activity 7,09/20/2015,11748.68955,Agency1
+Capricorn,US,Total,Paid Social,Activity 8,10/04/2015,720.2245741,Agency1
+Capricorn,US,Total,Paid Social,Activity 8,10/11/2015,146.9225635,Agency1
+Capricorn,US,Total,Paid Social,Activity 8,10/18/2015,8970.647833,Agency1
+Capricorn,US,Total,Paid Social,Activity 8,10/25/2015,19452.25165,Agency1
+Capricorn,US,Total,Paid Social,Activity 8,11/01/2015,16622.94032,Agency1
+Capricorn,US,Total,Paid Social,Activity 8,11/08/2015,50406.14283,Agency1
+Capricorn,US,Total,Paid Social,Activity 8,11/15/2015,10162.39045,Agency1
+Capricorn,US,Total,Paid Social,Activity 9,11/29/2015,1394.485469,Agency1
+Capricorn,US,Total,Paid Social,Activity 9,12/06/2015,3526.465213,Agency1
+Capricorn,US,Total,Paid Social,Activity 9,12/13/2015,3168.015793,Agency1
+Capricorn,US,Total,Paid Social,Activity 9,12/20/2015,4327.973526,Agency1
+Capricorn,US,Total,Paid Social,Activity 9,12/27/2015,3883.810286,Agency1
+Capricorn,US,Total,Paid Social,Activity 9,01/03/2016,94577.44779,Agency1
+Capricorn,US,Total,Paid Social,Activity 9,01/10/2016,63466.32681,Agency1
+Capricorn,US,Total,Paid Social,Activity 10,05/15/2016,8852.596959,Agency1
+Capricorn,US,Total,Paid Social,Activity 10,05/22/2016,38432.14748,Agency1
+Capricorn,US,Total,Paid Social,Activity 10,05/29/2016,43855.61408,Agency1
+Capricorn,US,Total,Paid Social,Activity 10,06/05/2016,68172.52645,Agency1
+Capricorn,US,Total,Paid Social,Activity 10,06/12/2016,43108.70112,Agency1
+Capricorn,US,Total,Paid Social,Activity 10,06/19/2016,96009.0939,Agency1
+Capricorn,US,Total,Paid Social,Activity 10,06/26/2016,134.3812449,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 1,07/13/2014,158.7297105,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 2,08/03/2014,498.4112911,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 2,08/10/2014,673.0139726,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 2,08/17/2014,1415.869018,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 2,08/24/2014,1533.329004,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 2,08/31/2014,3241.260689,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 2,09/07/2014,495.2366969,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 2,09/14/2014,1787.296541,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 2,09/21/2014,1812.693294,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 2,09/28/2014,911.1085384,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 2,10/05/2014,3136.49908,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 2,10/12/2014,5304.746926,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 2,10/19/2014,1473.011714,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 2,10/26/2014,876.1880021,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 2,11/02/2014,7463.470989,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 2,11/09/2014,2177.771628,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 2,11/16/2014,2961.896398,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 2,11/23/2014,7228.551018,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 2,11/30/2014,9460.290748,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 2,12/07/2014,24787.2316,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 2,12/14/2014,42450.67378,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 2,12/21/2014,60047.44949,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 2,12/28/2014,39790.36384,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 2,01/04/2015,1784.121946,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 3,01/18/2015,15.87297105,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 4,02/01/2015,412.6972474,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 4,02/08/2015,917.4577269,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 4,02/15/2015,2444.437542,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 5,03/08/2015,142.8567395,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 6,03/22/2015,47.61891316,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 6,03/29/2015,1615.868453,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 6,04/05/2015,507.9350737,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 7,04/19/2015,365.0783342,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 7,04/26/2015,825.3944948,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 7,05/03/2015,2939.674239,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 7,05/10/2015,2596.818064,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 7,05/17/2015,1571.424134,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 7,05/24/2015,2980.943964,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 7,05/31/2015,3038.08666,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 7,06/07/2015,6120.617638,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 7,06/14/2015,14612.65715,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 7,06/21/2015,40926.86856,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 7,06/28/2015,7031.726176,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 8,07/12/2015,158.7297105,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 9,08/02/2015,498.4112911,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 9,08/09/2015,673.0139726,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 9,08/16/2015,1415.869018,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 9,08/23/2015,1533.329004,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 9,08/30/2015,3241.260689,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 9,09/06/2015,495.2366969,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 9,09/13/2015,1787.296541,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 9,09/20/2015,1812.693294,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 9,09/27/2015,911.1085384,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 9,10/04/2015,3136.49908,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 9,10/11/2015,5304.746926,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 9,10/18/2015,1473.011714,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 9,10/25/2015,876.1880021,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 9,11/01/2015,7463.470989,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 9,11/08/2015,2177.771628,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 9,11/15/2015,2961.896398,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 9,11/22/2015,7228.551018,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 9,11/29/2015,9460.290748,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 9,12/06/2015,24787.2316,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 9,12/13/2015,42450.67378,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 9,12/20/2015,60047.44949,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 9,12/27/2015,39790.36384,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 9,01/03/2016,1784.121946,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 10,01/17/2016,15.87297105,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 11,01/31/2016,412.6972474,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 11,02/07/2016,917.4577269,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 11,02/14/2016,2444.437542,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 12,03/06/2016,142.8567395,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 13,03/20/2016,47.61891316,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 13,03/27/2016,1615.868453,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 13,04/03/2016,507.9350737,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 14,04/17/2016,365.0783342,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 14,04/24/2016,825.3944948,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 14,05/01/2016,2939.674239,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 14,05/08/2016,2596.818064,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 14,05/15/2016,1571.424134,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 14,05/22/2016,2980.943964,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 14,05/29/2016,3038.08666,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 14,06/05/2016,6120.617638,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 14,06/12/2016,14612.65715,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 14,06/19/2016,40926.86856,Agency1
+Capricorn,US,Total,Sampling - Off Premise,Activity 14,06/26/2016,7031.726176,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 1,09/07/2014,5238.882821,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 1,09/14/2014,57278.45218,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 1,09/21/2014,26630.98767,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 1,09/28/2014,16764.42503,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 1,10/05/2014,12486.00406,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 1,10/12/2014,55619.47262,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 1,10/19/2014,28813.85552,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 1,10/26/2014,145815.5719,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 1,11/02/2014,59286.69059,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 1,11/09/2014,93077.48479,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 1,11/16/2014,93426.74364,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 1,11/23/2014,53698.54892,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 1,11/30/2014,97792.47933,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 1,12/07/2014,151491.0282,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 1,12/14/2014,226232.4232,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 1,12/21/2014,308744.8276,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 1,12/28/2014,122502.5433,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 1,01/04/2015,69851.77095,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 2,01/25/2015,28377.28195,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 2,02/01/2015,6548.603526,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 2,02/08/2015,3929.162116,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 2,02/15/2015,47673.83367,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 2,02/22/2015,24448.11983,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 2,03/01/2015,29250.42908,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 2,03/08/2015,37545.32688,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 2,03/15/2015,72907.78593,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 2,03/22/2015,44967.07755,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 2,03/29/2015,77535.46575,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 2,04/05/2015,15891.27789,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 3,05/03/2015,2619.441411,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 4,05/24/2015,37108.75332,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 4,05/31/2015,5238.882821,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 4,06/07/2015,59897.89359,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 4,06/14/2015,150967.14,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 4,06/21/2015,223787.6112,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 4,06/28/2015,304553.7213,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 5,09/06/2015,5238.882821,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 5,09/13/2015,57278.45218,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 5,09/20/2015,26630.98767,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 5,09/27/2015,16764.42503,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 5,10/04/2015,12486.00406,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 5,10/11/2015,55619.47262,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 5,10/18/2015,28813.85552,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 5,10/25/2015,145815.5719,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 5,11/01/2015,59286.69059,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 5,11/08/2015,93077.48479,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 5,11/15/2015,93426.74364,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 5,11/22/2015,53698.54892,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 5,11/29/2015,97792.47933,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 5,12/06/2015,151491.0282,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 5,12/13/2015,226232.4232,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 5,12/20/2015,308744.8276,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 5,12/27/2015,122502.5433,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 5,01/03/2016,69851.77095,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 6,01/24/2016,28377.28195,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 6,01/31/2016,6548.603526,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 6,02/07/2016,3929.162116,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 6,02/14/2016,47673.83367,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 6,02/21/2016,24448.11983,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 6,02/28/2016,29250.42908,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 6,03/06/2016,37545.32688,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 6,03/13/2016,72907.78593,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 6,03/20/2016,44967.07755,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 6,03/27/2016,77535.46575,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 6,04/03/2016,15891.27789,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 7,05/01/2016,2619.441411,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 8,05/22/2016,37108.75332,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 8,05/29/2016,5238.882821,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 8,06/05/2016,59897.89359,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 8,06/12/2016,150967.14,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 8,06/19/2016,223787.6112,Agency1
+Capricorn,US,Total,Sampling - Special Events,Activity 8,06/26/2016,304553.7213,Agency1
+Capricorn,US,Total,Trade,Activity 1,07/06/2014,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,07/13/2014,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,07/20/2014,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,07/27/2014,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,08/03/2014,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,08/10/2014,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,08/17/2014,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,08/24/2014,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,08/31/2014,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,09/07/2014,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,09/14/2014,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,09/21/2014,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,09/28/2014,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,10/05/2014,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,10/12/2014,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,10/19/2014,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,10/26/2014,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,11/02/2014,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,11/09/2014,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,11/16/2014,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,11/23/2014,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,11/30/2014,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,12/07/2014,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,12/14/2014,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,12/21/2014,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,12/28/2014,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,01/04/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,01/11/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,01/18/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,01/25/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,02/01/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,02/08/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,02/15/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,02/22/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,03/01/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,03/08/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,03/15/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,03/22/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,03/29/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,04/05/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,04/12/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,04/19/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,04/26/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,05/03/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,05/10/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,05/17/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,05/24/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,05/31/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,06/07/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,06/14/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,06/21/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,06/28/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,07/05/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,07/12/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,07/19/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,07/26/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,08/02/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,08/09/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,08/16/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,08/23/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,08/30/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,09/06/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,09/13/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,09/20/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,09/27/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,10/04/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,10/11/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,10/18/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,10/25/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,11/01/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,11/08/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,11/15/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,11/22/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,11/29/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,12/06/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,12/13/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,12/20/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,12/27/2015,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,01/03/2016,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,01/10/2016,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,01/17/2016,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,01/24/2016,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,01/31/2016,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,02/07/2016,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,02/14/2016,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,02/21/2016,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,02/28/2016,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,03/06/2016,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,03/13/2016,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,03/20/2016,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,03/27/2016,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,04/03/2016,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,04/10/2016,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,04/17/2016,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,04/24/2016,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,05/01/2016,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,05/08/2016,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,05/15/2016,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,05/22/2016,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,05/29/2016,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,06/05/2016,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,06/12/2016,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,06/19/2016,575035.7499,Agency1
+Capricorn,US,Total,Trade,Activity 1,06/26/2016,575035.7499,Agency1
+Capricorn,US,Total,VAP,Activity 1,11/02/2014,100000.0,Agency1
+Capricorn,US,Total,VAP,Activity 1,11/09/2014,100000.0,Agency1
+Capricorn,US,Total,VAP,Activity 1,11/16/2014,100000.0,Agency1
+Capricorn,US,Total,VAP,Activity 1,11/23/2014,100000.0,Agency1
+Capricorn,US,Total,VAP,Activity 1,11/30/2014,100000.0,Agency1
+Capricorn,US,Total,VAP,Activity 1,12/07/2014,100000.0,Agency1
+Capricorn,US,Total,VAP,Activity 1,12/14/2014,100000.0,Agency1
+Capricorn,US,Total,VAP,Activity 1,12/21/2014,100000.0,Agency1
+Capricorn,US,Total,VAP,Activity 1,12/28/2014,100000.0,Agency1
+Capricorn,US,Total,VAP,Activity 2,06/07/2015,100000.0,Agency1
+Capricorn,US,Total,VAP,Activity 2,06/14/2015,100000.0,Agency1
+Capricorn,US,Total,VAP,Activity 2,06/21/2015,100000.0,Agency1
+Capricorn,US,Total,VAP,Activity 3,11/01/2015,100000.0,Agency1
+Capricorn,US,Total,VAP,Activity 3,11/08/2015,100000.0,Agency1
+Capricorn,US,Total,VAP,Activity 3,11/15/2015,100000.0,Agency1
+Capricorn,US,Total,VAP,Activity 3,11/22/2015,100000.0,Agency1
+Capricorn,US,Total,VAP,Activity 3,11/29/2015,100000.0,Agency1
+Capricorn,US,Total,VAP,Activity 3,12/06/2015,100000.0,Agency1
+Capricorn,US,Total,VAP,Activity 3,12/13/2015,100000.0,Agency1
+Capricorn,US,Total,VAP,Activity 3,12/20/2015,100000.0,Agency1
+Capricorn,US,Total,VAP,Activity 3,12/27/2015,100000.0,Agency1
+Capricorn,US,Total,VAP,Activity 4,06/05/2016,100000.0,Agency1
+Capricorn,US,Total,VAP,Activity 4,06/12/2016,100000.0,Agency1
+Capricorn,US,Total,VAP,Activity 4,06/19/2016,100000.0,Agency1

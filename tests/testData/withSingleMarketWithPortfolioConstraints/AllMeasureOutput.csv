@@ -1,0 +1,3 @@
+"MarketId","InstrumentId","Week","RelationId","ScenarioId","Cost","Investment","PressureUnit","Carryover","Lag","ReceivingMarketId","functionalFormName","CoefficientA","CoefficientB","CoefficientC","Adj","Base","Gross_Profit_per_Litre","LongTermMultiplier","Key","XEffectf","Attributed_Investment","DropScope"
+1,1,1,1,1,1,25000,25000,0.23,0,2,"ADBUDG",10.13927664,1.036494648,676050.0521,0.01,21796.09694,5.5,2.5,"1:01:02",1,25000,0
+1,2,1,2,1,1,10000,10000,0.3,0,2,"ADBUDG",2.838225306,1.63257835,20596.81653,0.01,21796.09694,5.5,2.5,"1:02:02",1,10000,0

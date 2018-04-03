@@ -1,0 +1,20 @@
+FunctionalFormName,Brand,Geography,Instrument,ReceivingBrand,ReceivingGeography,CoefficientA,CoefficientB,CoefficientC,Carryover,Lag,Kpi
+EXPONENTIAL,Gemini,US,National TV,Crown Royal,US,3.333333334,1.76e-05,0,0,0,Kpi1
+EXPONENTIAL,Gemini,US,Digital Total,Crown Royal,US,1.428571429,1.63e-05,0,0,0,Kpi1
+EXPONENTIAL,Gemini,US,Paid Social,Crown Royal,US,1.666666667,1.24e-05,0,0,0,Kpi1
+EXPONENTIAL,Gemini,US,Outdoor,Crown Royal,US,1.666666667,1.56e-05,0,0,0,Kpi1
+EXPONENTIAL,Gemini,US,Magazines,Crown Royal,US,3.333333334,1.1e-05,0,0,0,Kpi1
+EXPONENTIAL,Gemini,US,VAP,Crown Royal,US,1.25,9e-06,0,0,0,Kpi1
+EXPONENTIAL,Gemini,US,Trade,Crown Royal,US,1.0,1.14e-06,0,0,0,Kpi1
+POWER,Gemini,US,Sampling - Off Premise,Crown Royal,US,1.666666667,0.6,0,0,0,Kpi1
+POWER,Gemini,US,Sampling - On Premise,Crown Royal,US,1.666666667,0.6,0,0,0,Kpi1
+EXPONENTIAL,Capricorn,US,National TV,Johnnie Walker Black,US,3.333333334,1.83e-06,0,0,0,Kpi1
+EXPONENTIAL,Capricorn,US,Digital Total,Johnnie Walker Black,US,1.428571429,6.61e-06,0,0,0,Kpi1
+EXPONENTIAL,Capricorn,US,Paid Social,Johnnie Walker Black,US,1.666666667,9.83e-06,0,0,0,Kpi1
+EXPONENTIAL,Capricorn,US,Outdoor,Johnnie Walker Black,US,1.666666667,4.9e-06,0,0,0,Kpi1
+EXPONENTIAL,Capricorn,US,Magazines,Johnnie Walker Black,US,3.333333334,9.95e-06,0,0,0,Kpi1
+EXPONENTIAL,Capricorn,US,Newspapers,Johnnie Walker Black,US,1.428571429,5.92e-06,0,0,0,Kpi1
+EXPONENTIAL,Capricorn,US,VAP,Johnnie Walker Black,US,1.25,6e-06,0,0,0,Kpi1
+EXPONENTIAL,Capricorn,US,Trade,Johnnie Walker Black,US,1.0,1.39e-06,0,0,0,Kpi1
+POWER,Capricorn,US,Sampling - Off Premise,Johnnie Walker Black,US,1.666666667,0.6,0,0,0,Kpi1
+POWER,Capricorn,US,Sampling - Special Events,Johnnie Walker Black,US,2.0,0.6,0,0,0,Kpi1

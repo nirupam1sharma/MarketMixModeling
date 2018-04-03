@@ -1,0 +1,524 @@
+[
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 1,
+    "campaignId": 4,
+    "weekNo": 19,
+    "activityId": 91,
+    "weeklySpends": 522822.9212
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 1,
+    "campaignId": 4,
+    "weekNo": 20,
+    "activityId": 91,
+    "weeklySpends": 537829.8753
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 1,
+    "campaignId": 4,
+    "weekNo": 21,
+    "activityId": 91,
+    "weeklySpends": 493777.2034
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 1,
+    "campaignId": 4,
+    "weekNo": 22,
+    "activityId": 91,
+    "weeklySpends": 541669.7482
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 1,
+    "campaignId": 4,
+    "weekNo": 23,
+    "activityId": 91,
+    "weeklySpends": 541669.7482
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 1,
+    "campaignId": 4,
+    "weekNo": 24,
+    "activityId": 91,
+    "weeklySpends": 371984.3734
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 1,
+    "campaignId": 4,
+    "weekNo": 25,
+    "activityId": 91,
+    "weeklySpends": 218842.1408
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 2,
+    "campaignId": 4,
+    "weekNo": 16,
+    "activityId": 99,
+    "weeklySpends": 33483.2344
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 2,
+    "campaignId": 4,
+    "weekNo": 20,
+    "activityId": 100,
+    "weeklySpends": 10511.1926
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 2,
+    "campaignId": 4,
+    "weekNo": 21,
+    "activityId": 101,
+    "weeklySpends": 33520.3627
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 2,
+    "campaignId": 4,
+    "weekNo": 22,
+    "activityId": 101,
+    "weeklySpends": 52465.5463
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 2,
+    "campaignId": 4,
+    "weekNo": 23,
+    "activityId": 101,
+    "weeklySpends": 66223.3343
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 2,
+    "campaignId": 4,
+    "weekNo": 25,
+    "activityId": 102,
+    "weeklySpends": 6735.3009
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 2,
+    "campaignId": 4,
+    "weekNo": 30,
+    "activityId": 103,
+    "weeklySpends": 33483.2344
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 2,
+    "campaignId": 4,
+    "weekNo": 34,
+    "activityId": 104,
+    "weeklySpends": 33483.2344
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 2,
+    "campaignId": 4,
+    "weekNo": 38,
+    "activityId": 87,
+    "weeklySpends": 33483.2344
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 2,
+    "campaignId": 4,
+    "weekNo": 41,
+    "activityId": 88,
+    "weeklySpends": 1571.9319
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 3,
+    "campaignId": 4,
+    "weekNo": 17,
+    "activityId": 92,
+    "weeklySpends": 7881.6036
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 3,
+    "campaignId": 4,
+    "weekNo": 18,
+    "activityId": 92,
+    "weeklySpends": 27585.6127
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 3,
+    "campaignId": 4,
+    "weekNo": 19,
+    "activityId": 92,
+    "weeklySpends": 27585.6127
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 3,
+    "campaignId": 4,
+    "weekNo": 20,
+    "activityId": 92,
+    "weeklySpends": 27585.6127
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 3,
+    "campaignId": 4,
+    "weekNo": 21,
+    "activityId": 92,
+    "weeklySpends": 27585.6127
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 3,
+    "campaignId": 4,
+    "weekNo": 22,
+    "activityId": 92,
+    "weeklySpends": 27585.6127
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 3,
+    "campaignId": 4,
+    "weekNo": 23,
+    "activityId": 92,
+    "weeklySpends": 15763.2072
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 4,
+    "campaignId": 4,
+    "weekNo": 22,
+    "activityId": 93,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 4,
+    "campaignId": 4,
+    "weekNo": 23,
+    "activityId": 93,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 4,
+    "campaignId": 4,
+    "weekNo": 24,
+    "activityId": 93,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 4,
+    "campaignId": 4,
+    "weekNo": 25,
+    "activityId": 93,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 4,
+    "campaignId": 4,
+    "weekNo": 26,
+    "activityId": 93,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 4,
+    "campaignId": 4,
+    "weekNo": 28,
+    "activityId": 94,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 4,
+    "campaignId": 4,
+    "weekNo": 33,
+    "activityId": 95,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 4,
+    "campaignId": 4,
+    "weekNo": 34,
+    "activityId": 95,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 4,
+    "campaignId": 4,
+    "weekNo": 37,
+    "activityId": 96,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 4,
+    "campaignId": 4,
+    "weekNo": 39,
+    "activityId": 97,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 4,
+    "campaignId": 4,
+    "weekNo": 40,
+    "activityId": 97,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 4,
+    "campaignId": 4,
+    "weekNo": 41,
+    "activityId": 97,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 4,
+    "campaignId": 4,
+    "weekNo": 42,
+    "activityId": 97,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 4,
+    "campaignId": 4,
+    "weekNo": 43,
+    "activityId": 97,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 4,
+    "campaignId": 4,
+    "weekNo": 44,
+    "activityId": 97,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 4,
+    "campaignId": 4,
+    "weekNo": 45,
+    "activityId": 97,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 4,
+    "campaignId": 4,
+    "weekNo": 46,
+    "activityId": 97,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 4,
+    "campaignId": 4,
+    "weekNo": 47,
+    "activityId": 97,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 4,
+    "campaignId": 4,
+    "weekNo": 48,
+    "activityId": 97,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 4,
+    "campaignId": 4,
+    "weekNo": 49,
+    "activityId": 97,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 5,
+    "campaignId": 4,
+    "weekNo": 19,
+    "activityId": 89,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 5,
+    "campaignId": 4,
+    "weekNo": 20,
+    "activityId": 89,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 5,
+    "campaignId": 4,
+    "weekNo": 21,
+    "activityId": 89,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 5,
+    "campaignId": 4,
+    "weekNo": 22,
+    "activityId": 89,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 5,
+    "campaignId": 4,
+    "weekNo": 23,
+    "activityId": 89,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 5,
+    "campaignId": 4,
+    "weekNo": 24,
+    "activityId": 89,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 5,
+    "campaignId": 4,
+    "weekNo": 36,
+    "activityId": 90,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 5,
+    "campaignId": 4,
+    "weekNo": 37,
+    "activityId": 90,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 5,
+    "campaignId": 4,
+    "weekNo": 38,
+    "activityId": 90,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 6,
+    "campaignId": 4,
+    "weekNo": 21,
+    "activityId": 98,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 6,
+    "campaignId": 4,
+    "weekNo": 22,
+    "activityId": 98,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 6,
+    "campaignId": 4,
+    "weekNo": 23,
+    "activityId": 98,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 6,
+    "campaignId": 4,
+    "weekNo": 24,
+    "activityId": 98,
+    "weeklySpends": 0
+  },
+  {
+    "scenarioId": "4",
+    "marketId": 1,
+    "instrumentId": 6,
+    "campaignId": 4,
+    "weekNo": 25,
+    "activityId": 98,
+    "weeklySpends": 0
+  }
+]
